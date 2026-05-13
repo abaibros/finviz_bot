@@ -163,59 +163,27 @@ def score_drawdown(return_1y_pct, return_5d_pct, areas):
     """
     낙폭 과대 점수: 최대 25점
 
-    [매수 사냥개 원칙]
-    - 단순 낙폭과대 추구 X
-    - "적당히 눌린" 종목 우선
-    - -70% 이상 붕괴 종목은 위험 → 0점
+    C 영역:
+    1년 -30% = 0점
+    1년 -60% 이하 = 15점
+
+    D 영역:
+    5일 -10% = 0점
+    5일 -20% 이하 = 10점
     """
 
     score = 0.0
 
-    # ===== 영역 C: 1년 낙폭 (최대 15점) =====
     if "C" in areas and not pd.isna(return_1y_pct):
+        c_score = (abs(return_1y_pct) - 30) * 0.5
+        score += max(0.0, min(15.0, c_score))
 
-        try:
-            r1y = float(return_1y_pct)
-
-            # -70% 이하 붕괴
-            if r1y <= -70:
-                c_score = 0.0
-
-            else:
-                optimal_1y = -40.0
-                deviation = abs(r1y - optimal_1y)
-
-                c_score = 15.0 - deviation * 0.4
-                c_score = max(0.0, min(15.0, c_score))
-
-            score += c_score
-
-        except:
-            pass
-
-    # ===== 영역 D: 5일 낙폭 (최대 10점) =====
     if "D" in areas and not pd.isna(return_5d_pct):
-
-        try:
-            r5d = float(return_5d_pct)
-
-            # -25% 이하 패닉
-            if r5d <= -25:
-                d_score = max(0.0, 5.0 - (abs(r5d) - 25) * 0.5)
-
-            else:
-                optimal_5d = -12.0
-                deviation = abs(r5d - optimal_5d)
-
-                d_score = 10.0 - deviation * 0.5
-                d_score = max(0.0, min(10.0, d_score))
-
-            score += d_score
-
-        except:
-            pass
+        d_score = (abs(return_5d_pct) - 10) * 1.0
+        score += max(0.0, min(10.0, d_score))
 
     return score
+
 
 def score_volume(volume):
     """
