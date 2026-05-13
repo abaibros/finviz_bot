@@ -4,3 +4,20 @@ __pycache__/
 .venv/
 venv/
 *.log
+# 결과 파일
+finviz_scored.csv
+finviz_yfinance_validated.csv
+
+# 디버그 파일
+debug_area_*.html
+debug_*.html
+*.log
+
+# 캐시
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 백업 파일
+scorer_backup.py
+*_backup.py
