@@ -190,7 +190,7 @@ def build_signal_message(df, env, cols):
     ]
 
     lines = []
-    lines.append(f"🚨 매수 신호 발생 ({date_str}) - 후보 {len(df_candidate)}")
+    lines.append(f"🔎 관찰 후보 발견 ({date_str}) - 후보 {len(df_candidate)}")
     lines.append("")
     lines.append("[시장 환경]")
     lines.append(f"VIX: {env['vix'] if env['vix'] is not None else 'N/A'} → {env['regime']}")
@@ -203,7 +203,7 @@ def build_signal_message(df, env, cols):
 
     if len(df_strong) > 0:
         lines.append("━━━━━━━━━━━━━━━━")
-        lines.append(f"📊 매수 강력 후보 ({SCORE_STRONG}+)")
+        lines.append(f"📊 강한 관찰 후보 ({SCORE_STRONG}+)")
         lines.append("━━━━━━━━━━━━━━━━")
         lines.append("")
         for i, (_, row) in enumerate(df_strong.iterrows(), 1):
@@ -212,7 +212,7 @@ def build_signal_message(df, env, cols):
 
     if len(df_candidate) > 0:
         lines.append("━━━━━━━━━━━━━━━━")
-        lines.append(f"📊 매수 후보 ({SCORE_CANDIDATE}~{SCORE_STRONG - 1})")
+        lines.append(f"📊 관찰 후보 ({SCORE_CANDIDATE}~{SCORE_STRONG - 1})")
         lines.append("━━━━━━━━━━━━━━━━")
         lines.append("")
         start = len(df_strong) + 1
@@ -225,14 +225,14 @@ def build_signal_message(df, env, cols):
     lines.append("📌 본인 프로필")
     lines.append("- 인내력 -20%")
     lines.append("- 한 종목 10~15%")
-    lines.append("- 모멘텀 충동 → 분할 매수")
+    lines.append("- 모멘텀 충동 → 분할 관찰")
     lines.append("")
     lines.append("⚠️ 본 알림은 영역 A/C/D/E 커버")
     lines.append("영역 B (신 CEO)는 본인 수동 관리")
     lines.append("")
     lines.append("✅ Claude Pro에 그대로 붙여넣고")
     lines.append('"확인해줘" 입력')
-    lines.append("→ 매수사냥개 분석 실행")
+    lines.append("→ 정밀 검토 실행")
 
     return "\n".join(lines)
 
@@ -242,13 +242,13 @@ def build_no_signal_message(env):
     date_str = now.strftime("%Y-%m-%d")
 
     return "\n".join([
-        f"📊 매수 사냥개 ({date_str})",
+        f"📊 관찰 후보 리포트 ({date_str})",
         "",
         f"VIX: {env['vix'] if env['vix'] is not None else 'N/A'}",
         f"S&P 500: 52주 고점 {env['sp_drawdown_pct'] if env['sp_drawdown_pct'] is not None else 'N/A'}%",
         f"→ {env['regime']}",
         "",
-        "🔕 강한 신호 없음",
+        "🔕 관찰 후보 없음",
         f"({SCORE_CANDIDATE}점 이상 종목 없음)",
     ])
 

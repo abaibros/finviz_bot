@@ -26,6 +26,7 @@ from config import (
 
 INPUT_CSV = "finviz_yfinance_validated.csv"
 OUTPUT_CSV = "finviz_scored.csv"
+MANUAL_EXCLUSION_CSV = "manual_exclusion_list.csv"
 
 
 def fetch_vix():
@@ -109,6 +110,43 @@ def filter_required_data(df):
     excluded = original_count - len(df_filtered)
 
     return df_filtered, excluded
+
+
+def apply_manual_exclusions(df):
+    try:
+        exclusion_df = pd.read_csv(MANUAL_EXCLUSION_CSV)
+    except FileNotFoundError:
+        return df
+    except Exception as e:
+        print(f"[manual_exclusion] skipped: {e}")
+        return df
+
+    if "ticker" not in df.columns or not {"ticker", "action"}.issubset(exclusion_df.columns):
+        print("[manual_exclusion] skipped: missing ticker/action column")
+        return df
+
+    exclusion_tickers = (
+        exclusion_df.loc[
+            exclusion_df["action"].astype(str).str.strip().eq("exclude_permanent"),
+            "ticker",
+        ]
+        .dropna()
+        .astype(str)
+        .str.strip()
+        .str.upper()
+        .unique()
+    )
+
+    if len(exclusion_tickers) == 0:
+        return df
+
+    ticker_series = df["ticker"].astype(str).str.strip().str.upper()
+    excluded = sorted(ticker_series[ticker_series.isin(exclusion_tickers)].unique())
+
+    if excluded:
+        print(f"[manual_exclusion] excluded: {', '.join(excluded)}")
+
+    return df.loc[~ticker_series.isin(exclusion_tickers)].copy()
 
 
 def score_roe(roe):
@@ -427,6 +465,8 @@ def main():
         by="total_score",
         ascending=False,
     ).reset_index(drop=True)
+
+    df_scored = apply_manual_exclusions(df_scored)
 
     df_scored.to_csv(
         OUTPUT_CSV,
