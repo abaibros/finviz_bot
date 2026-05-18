@@ -1,0 +1,2 @@
+ticker,event_type,status,action,reason,source_note,updated_at,review_after
+APLS,M&A,confirmed,exclude_permanent,Biogen acquisition / tender offer / CVR structure. Not a normal observation candidate.,Biogen official / 8-K,2026-05-18,none
