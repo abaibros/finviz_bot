@@ -1,0 +1,6 @@
+﻿alert_date,source_time_kst,alert_version,ticker,score,grade,price,market_cap,sector,year_change_pct,roe_pct,revenue_growth_pct,analyst_rating,analyst_score,analyst_count,vix,sp500_from_52w_high_pct
+2026-05-20,2026-05-20 09:30:00,v1.1.1,NVO,58.65,약한 후보,47.0,208343990272,Healthcare,-24.66,71.4,24.0,buy,2.36,12,20.5,-3.2
+2026-05-20,2026-05-20 09:30:00,v1.1.1,DUOL,56.99,약한 후보,106.01,4939336192,Technology,-80.05,36.96,26.5,hold,2.83,17,20.5,-3.2
+2026-05-20,2026-05-20 09:30:00,v1.1.1,NOW,56.04,약한 후보,89.0,91786412032,Technology,-57.08,16.07,22.1,strong_buy,1.44,44,20.5,-3.2
+2026-05-20,2026-05-20 09:30:00,v1.1.1,SAMPLE4,55.8,약한 후보,31.25,12000000000,Industrials,-18.2,22.5,11.3,buy,2.1,9,20.5,-3.2
+2026-05-20,2026-05-20 09:30:00,v1.1.1,SAMPLE5,55.1,약한 후보,18.4,8500000000,Consumer Cyclical,-12.75,19.4,8.6,hold,2.9,6,20.5,-3.2

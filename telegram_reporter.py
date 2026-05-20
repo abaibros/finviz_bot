@@ -9,15 +9,27 @@ import yfinance as yf
 from dotenv import load_dotenv
 from zoneinfo import ZoneInfo
 
+from watchlist_logger import (
+    WATCHLIST_LOG_CSV,
+    append_watchlist_rows,
+    assert_no_forbidden_words,
+    assert_no_forbidden_words_in_row,
+    build_run_id,
+    build_watchlist_log_row,
+    format_created_at_utc,
+    generate_run_timestamp,
+    validate_watchlist_log_header,
+)
+
 
 INPUT_CSV = "finviz_scored.csv"
+WATCHLIST_ALERT_VERSION = "v1.1.1"
 KST = ZoneInfo("Asia/Seoul")
 
 SCORE_STRONG = 70
 SCORE_CANDIDATE = 55
 VIX_PANIC = 25.0
 MAX_MESSAGE_LENGTH = 3900
-
 
 COLUMN_CANDIDATES = {
     "week52_low": ["week52_low", "fiftyTwoWeekLow", "52w_low", "low_52w"],
@@ -92,6 +104,36 @@ def fetch_market_environment() -> dict:
         env["regime"] = "셀오프 환경" if env["vix"] >= VIX_PANIC else "평시 환경"
 
     return env
+
+
+def build_watchlist_candidates(df: pd.DataFrame) -> list:
+    df_watchlist = df[df["total_score"] >= SCORE_CANDIDATE].copy()
+    df_watchlist = df_watchlist.sort_values("total_score", ascending=False).reset_index(drop=True)
+    return [row.to_dict() for _, row in df_watchlist.iterrows()]
+
+
+def build_prospective_watchlist_rows(candidates, run_id, created_at_utc):
+    return [
+        build_watchlist_log_row(
+            candidate=candidate,
+            rank=rank,
+            run_id=run_id,
+            alert_version=WATCHLIST_ALERT_VERSION,
+            market="US",
+            currency="USD",
+            created_at_utc=created_at_utc,
+            prior_observation_count=0,
+        )
+        for rank, candidate in enumerate(candidates, 1)
+    ]
+
+
+def validate_watchlist_payload(message, candidates, run_id, created_at_utc):
+    assert_no_forbidden_words(message)
+    rows = build_prospective_watchlist_rows(candidates, run_id, created_at_utc)
+    for row in rows:
+        assert_no_forbidden_words_in_row(row)
+    return rows
 
 
 def fmt_number(v, suffix="", prefix="", decimals=1):
@@ -302,6 +344,35 @@ def send_telegram(token, chat_id, message):
     return success_all
 
 
+def send_telegram_and_append_watchlist_log(
+    token,
+    chat_id,
+    message,
+    candidates,
+    run_id,
+    created_at_utc,
+    path=WATCHLIST_LOG_CSV,
+):
+    if candidates:
+        validate_watchlist_log_header(path)
+
+    success = send_telegram(token, chat_id, message)
+    append_count = 0
+
+    if success:
+        append_count = append_watchlist_rows(
+            candidates,
+            run_id=run_id,
+            alert_version=WATCHLIST_ALERT_VERSION,
+            market="US",
+            currency="USD",
+            created_at_utc=created_at_utc,
+            path=path,
+        )
+
+    return success, append_count
+
+
 def main():
     print("=" * 60)
     print("모듈 4: 텔레그램 자동 리포트")
@@ -330,9 +401,24 @@ def main():
     else:
         message = build_no_signal_message(env)
 
+    run_timestamp_utc = generate_run_timestamp()
+    created_at_utc = format_created_at_utc(run_timestamp_utc)
+    run_id = build_run_id(run_timestamp_utc)
+    watchlist_candidates = build_watchlist_candidates(df)
+    validate_watchlist_payload(message, watchlist_candidates, run_id, created_at_utc)
+
     print(f"메시지 길이: {len(message)}자")
 
-    success = send_telegram(token, chat_id, message)
+    success, append_count = send_telegram_and_append_watchlist_log(
+        token,
+        chat_id,
+        message,
+        watchlist_candidates,
+        run_id,
+        created_at_utc,
+    )
+    if success:
+        print(f"watchlist_log append_count: {append_count}")
 
     print("=" * 60)
     print("모듈 4 완료" if success else "모듈 4 실패")
