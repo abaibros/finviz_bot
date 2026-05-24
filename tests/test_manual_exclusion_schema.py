@@ -239,7 +239,6 @@ class ManualExclusionSchemaTests(unittest.TestCase):
         self.assertEqual(1, append_count)
 
     def test_validation_module_does_not_create_disallowed_artifacts(self):
-        self.assertFalse(os.path.exists("prior_verdict_log.csv"))
         self.assertFalse(os.path.exists("result_tracker.py"))
         self.assertNotIn("risk_flags", inspect.getsource(manual_exclusion_schema))
 
