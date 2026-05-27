@@ -1,0 +1,657 @@
+﻿ticker,name,market,sector,sub_industry,market_cap_local,market_cap_local_unit,market_cap_usd_b,fx_rate_used,exchange,adr_flag,foreign_ownership_pct,company_type,turnaround_flag,updated_at,source
+NVDA,NVIDIA Corporation,US,Information Technology,Semiconductors,5380.0,USD_B,5380.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+GOOGL,Alphabet Inc. Class A,US,Communication Services,Interactive Media & Services,4810.0,USD_B,4810.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+GOOG,Alphabet Inc. Class C,US,Communication Services,Interactive Media & Services,4790.0,USD_B,4790.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+AAPL,Apple Inc.,US,Information Technology,Technology Hardware,4370.0,USD_B,4370.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+MSFT,Microsoft Corporation,US,Information Technology,Software,3150.0,USD_B,3150.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+AMZN,Amazon.com Inc.,US,Consumer Discretionary,Broadline Retail,2850.0,USD_B,2850.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+AVGO,Broadcom Inc.,US,Information Technology,Semiconductors,1990.0,USD_B,1990.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+META,Meta Platforms Inc.,US,Communication Services,Interactive Media & Services,1550.0,USD_B,1550.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+TSLA,Tesla Inc.,US,Consumer Discretionary,Automobiles,1540.0,USD_B,1540.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+WMT,Walmart Inc.,US,Consumer Staples,Consumer Staples Distribution,1060.0,USD_B,1060.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+BRK.B,Berkshire Hathaway Inc.,US,Financials,Financial Services,1050.0,USD_B,1050.0,,NYSE,N,,,N,2026-05-26,SP500
+LLY,Eli Lilly and Company,US,Health Care,Pharmaceuticals,881.0,USD_B,881.0,,NYSE,N,,,N,2026-05-26,SP500
+JPM,JPMorgan Chase & Co.,US,Financials,Banks,805.0,USD_B,805.0,,NYSE,N,,,N,2026-05-26,SP500
+MU,Micron Technology Inc.,US,Information Technology,Semiconductors,768.0,USD_B,768.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+AMD,Advanced Micro Devices Inc.,US,Information Technology,Semiconductors,686.0,USD_B,686.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+XOM,Exxon Mobil Corporation,US,Energy,Oil Gas & Consumable Fuels,665.0,USD_B,665.0,,NYSE,N,,,N,2026-05-26,SP500
+V,Visa Inc.,US,Financials,Financial Services,626.0,USD_B,626.0,,NYSE,N,,,N,2026-05-26,SP500
+JNJ,Johnson & Johnson,US,Health Care,Pharmaceuticals,551.0,USD_B,551.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+INTC,Intel Corporation,US,Information Technology,Semiconductors,543.0,USD_B,543.0,,NASDAQ,N,,,Y,2026-05-26,SP500+NDX
+ORCL,Oracle Corporation,US,Information Technology,Software,536.0,USD_B,536.0,,NYSE,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500
+COST,Costco Wholesale Corporation,US,Consumer Staples,Consumer Staples Distribution,477.0,USD_B,477.0,,NASDAQ,N,,DEFENSIVE,N,2026-05-26,SP500+NDX
+CSCO,Cisco Systems Inc.,US,Information Technology,Communications Equipment,469.0,USD_B,469.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MA,Mastercard Incorporated,US,Financials,Financial Services,446.0,USD_B,446.0,,NYSE,N,,,N,2026-05-26,SP500
+CAT,Caterpillar Inc.,US,Industrials,Machinery,397.0,USD_B,397.0,,NYSE,N,,,N,2026-05-26,SP500
+CVX,Chevron Corporation,US,Energy,Oil Gas & Consumable Fuels,387.0,USD_B,387.0,,NYSE,N,,,N,2026-05-26,SP500
+NFLX,Netflix Inc.,US,Communication Services,Entertainment,377.0,USD_B,377.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ABBV,AbbVie Inc.,US,Health Care,Biotechnology,369.0,USD_B,369.0,,NYSE,N,,,N,2026-05-26,SP500
+BAC,Bank of America Corporation,US,Financials,Banks,359.0,USD_B,359.0,,NYSE,N,,,N,2026-05-26,SP500
+UNH,UnitedHealth Group Incorporated,US,Health Care,Health Care Providers,355.0,USD_B,355.0,,NYSE,N,,,N,2026-05-26,SP500
+KO,The Coca-Cola Company,US,Consumer Staples,Beverages,349.0,USD_B,349.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+LRCX,Lam Research Corporation,US,Information Technology,Semiconductor Equipment,347.0,USD_B,347.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+PG,The Procter & Gamble Company,US,Consumer Staples,Household Products,331.0,USD_B,331.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+AMAT,Applied Materials Inc.,US,Information Technology,Semiconductor Equipment,328.0,USD_B,328.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+PLTR,Palantir Technologies Inc.,US,Information Technology,Software,323.0,USD_B,323.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MS,Morgan Stanley,US,Financials,Capital Markets,303.0,USD_B,303.0,,NYSE,N,,,N,2026-05-26,SP500
+HD,The Home Depot Inc.,US,Consumer Discretionary,Specialty Retail,298.0,USD_B,298.0,,NYSE,N,,,N,2026-05-26,SP500
+PM,Philip Morris International Inc.,US,Consumer Staples,Tobacco,298.0,USD_B,298.0,,NYSE,N,,,N,2026-05-26,SP500
+GE,GE Aerospace,US,Industrials,Aerospace & Defense,298.0,USD_B,298.0,,NYSE,N,,,N,2026-05-26,SP500
+GS,The Goldman Sachs Group Inc.,US,Financials,Capital Markets,290.0,USD_B,290.0,,NYSE,N,,,N,2026-05-26,SP500
+MRK,Merck & Co. Inc.,US,Health Care,Pharmaceuticals,278.0,USD_B,278.0,,NYSE,N,,,N,2026-05-26,SP500
+TXN,Texas Instruments Incorporated,US,Information Technology,Semiconductors,273.0,USD_B,273.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+GEV,GE Vernova Inc.,US,Industrials,Electrical Equipment,272.0,USD_B,272.0,,NYSE,N,,,N,2026-05-26,SP500
+RTX,RTX Corporation,US,Industrials,Aerospace & Defense,236.0,USD_B,236.0,,NYSE,N,,,N,2026-05-26,SP500
+LIN,Linde plc,US,Materials,Chemicals,236.0,USD_B,236.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+KLAC,KLA Corporation,US,Information Technology,Semiconductor Equipment,229.0,USD_B,229.0,,NASDAQ,N,,BIG_TECH_AI_INFRA,N,2026-05-26,SP500+NDX
+WFC,Wells Fargo & Company,US,Financials,Banks,227.0,USD_B,227.0,,NYSE,N,,,N,2026-05-26,SP500
+QCOM,QUALCOMM Incorporated,US,Information Technology,Semiconductors,214.0,USD_B,214.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+AXP,American Express Company,US,Financials,Consumer Finance,213.0,USD_B,213.0,,NYSE,N,,,N,2026-05-26,SP500
+IBM,IBM Corporation,US,Information Technology,IT Services,209.0,USD_B,209.0,,NYSE,N,,,N,2026-05-26,SP500
+C,Citigroup Inc.,US,Financials,Banks,208.0,USD_B,208.0,,NYSE,N,,,N,2026-05-26,SP500
+TMUS,T-Mobile US Inc.,US,Communication Services,Wireless Telecommunication,206.0,USD_B,206.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ADI,Analog Devices Inc.,US,Information Technology,Semiconductors,204.0,USD_B,204.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+PEP,PepsiCo Inc.,US,Consumer Staples,Beverages,203.0,USD_B,203.0,,NASDAQ,N,,DEFENSIVE,N,2026-05-26,SP500+NDX
+PANW,Palo Alto Networks Inc.,US,Information Technology,Software,200.0,USD_B,200.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MCD,McDonald's Corporation,US,Consumer Discretionary,Hotels Restaurants,200.0,USD_B,200.0,,NYSE,N,,,N,2026-05-26,SP500
+SNDK,Sandisk Corporation,US,Information Technology,"Technology Hardware, Storage & Peripherals",197.0,USD_B,197.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX_NEW_APR2026; sub_industry_corrected_v0_2
+VZ,Verizon Communications Inc.,US,Communication Services,Diversified Telecommunication,195.0,USD_B,195.0,,NYSE,N,,,N,2026-05-26,SP500
+NEE,NextEra Energy Inc.,US,Utilities,Electric Utilities,185.0,USD_B,185.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+DIS,The Walt Disney Company,US,Communication Services,Entertainment,180.0,USD_B,180.0,,NYSE,N,,,Y,2026-05-26,SP500
+ANET,Arista Networks Inc.,US,Information Technology,Communications Equipment,178.0,USD_B,178.0,,NYSE,N,,,N,2026-05-26,SP500
+BLK,BlackRock Inc.,US,Financials,Capital Markets,176.0,USD_B,176.0,,NYSE,N,,,N,2026-05-26,SP500
+AMGN,Amgen Inc.,US,Health Care,Biotechnology,175.0,USD_B,175.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+BA,The Boeing Company,US,Industrials,Aerospace & Defense,173.0,USD_B,173.0,,NYSE,N,,,Y,2026-05-26,SP500
+T,AT&T Inc.,US,Communication Services,Diversified Telecommunication,169.0,USD_B,169.0,,NYSE,N,,,N,2026-05-26,SP500
+TJX,The TJX Companies Inc.,US,Consumer Discretionary,Specialty Retail,166.0,USD_B,166.0,,NYSE,N,,,N,2026-05-26,SP500
+STX,Seagate Technology Holdings plc,US,Information Technology,Technology Hardware,166.0,USD_B,166.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+APP,AppLovin Corporation,US,Information Technology,Software,165.0,USD_B,165.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+TMO,Thermo Fisher Scientific Inc.,US,Health Care,Life Sciences Tools,164.0,USD_B,164.0,,NYSE,N,,,N,2026-05-26,SP500
+UNP,Union Pacific Corporation,US,Industrials,Ground Transportation,163.0,USD_B,163.0,,NYSE,N,,,N,2026-05-26,SP500
+GILD,Gilead Sciences Inc.,US,Health Care,Biotechnology,160.0,USD_B,160.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+SCHW,The Charles Schwab Corporation,US,Financials,Capital Markets,160.0,USD_B,160.0,,NYSE,N,,,N,2026-05-26,SP500
+WDC,Western Digital Corporation,US,Information Technology,Technology Hardware,158.0,USD_B,158.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CRWD,CrowdStrike Holdings Inc.,US,Information Technology,Software,157.0,USD_B,157.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ISRG,Intuitive Surgical Inc.,US,Health Care,Health Care Equipment,155.0,USD_B,155.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+DELL,Dell Technologies Inc.,US,Information Technology,Technology Hardware,154.0,USD_B,154.0,,NYSE,N,,,N,2026-05-26,SP500
+GLW,Corning Incorporated,US,Information Technology,Electronic Components,153.0,USD_B,153.0,,NYSE,N,,,N,2026-05-26,SP500
+ABT,Abbott Laboratories,US,Health Care,Health Care Equipment,153.0,USD_B,153.0,,NYSE,N,,,N,2026-05-26,SP500
+UBER,Uber Technologies Inc.,US,Industrials,Ground Transportation,152.0,USD_B,152.0,,NYSE,N,,,N,2026-05-26,SP500
+DE,Deere & Company,US,Industrials,Machinery,152.0,USD_B,152.0,,NYSE,N,,,N,2026-05-26,SP500
+COP,ConocoPhillips,US,Energy,Oil Gas & Consumable Fuels,151.0,USD_B,151.0,,NYSE,N,,,N,2026-05-26,SP500
+WELL,Welltower Inc.,US,Real Estate,Health Care REITs,150.0,USD_B,150.0,,NYSE,N,,,N,2026-05-26,SP500
+APH,Amphenol Corporation,US,Information Technology,Electronic Components,149.0,USD_B,149.0,,NYSE,N,,,N,2026-05-26,SP500
+ETN,Eaton Corporation plc,US,Industrials,Electrical Equipment,148.0,USD_B,148.0,,NYSE,N,,,N,2026-05-26,SP500
+CRM,Salesforce Inc.,US,Information Technology,Software,146.0,USD_B,146.0,,NYSE,N,,,N,2026-05-26,SP500
+PFE,Pfizer Inc.,US,Health Care,Pharmaceuticals,144.0,USD_B,144.0,,NYSE,N,,,Y,2026-05-26,SP500
+BX,Blackstone Inc.,US,Financials,Capital Markets,143.0,USD_B,143.0,,NYSE,N,,,N,2026-05-26,SP500
+HON,Honeywell International Inc.,US,Industrials,Industrial Conglomerates,137.0,USD_B,137.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+PLD,Prologis Inc.,US,Real Estate,Industrial REITs,135.0,USD_B,135.0,,NYSE,N,,,N,2026-05-26,SP500
+VRT,Vertiv Holdings Co,US,Industrials,Electrical Equipment,130.0,USD_B,130.0,,NYSE,N,,,N,2026-05-26,SP500
+CB,Chubb Limited,US,Financials,Insurance,128.0,USD_B,128.0,,NYSE,N,,,N,2026-05-26,SP500
+SPGI,S&P Global Inc.,US,Financials,Capital Markets,123.0,USD_B,123.0,,NYSE,N,,,N,2026-05-26,SP500
+MO,Altria Group Inc.,US,Consumer Staples,Tobacco,123.0,USD_B,123.0,,NYSE,N,,,N,2026-05-26,SP500
+CVS,CVS Health Corporation,US,Health Care,Health Care Providers,122.0,USD_B,122.0,,NYSE,N,,,Y,2026-05-26,SP500
+LOW,Lowe's Companies Inc.,US,Consumer Discretionary,Specialty Retail,122.0,USD_B,122.0,,NYSE,N,,,N,2026-05-26,SP500
+LMT,Lockheed Martin Corporation,US,Industrials,Aerospace & Defense,121.0,USD_B,121.0,,NYSE,N,,,N,2026-05-26,SP500
+SBUX,Starbucks Corporation,US,Consumer Discretionary,Hotels Restaurants,121.0,USD_B,121.0,,NASDAQ,N,,,Y,2026-05-26,SP500+NDX
+BKNG,Booking Holdings Inc.,US,Consumer Discretionary,Hotels Restaurants,120.0,USD_B,120.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+SYK,Stryker Corporation,US,Health Care,Health Care Equipment,120.0,USD_B,120.0,,NYSE,N,,,N,2026-05-26,SP500
+PGR,The Progressive Corporation,US,Financials,Insurance,119.0,USD_B,119.0,,NYSE,N,,,N,2026-05-26,SP500
+NEM,Newmont Corporation,US,Materials,Metals & Mining,117.0,USD_B,117.0,,NYSE,N,,,N,2026-05-26,SP500
+BMY,Bristol-Myers Squibb Company,US,Health Care,Pharmaceuticals,117.0,USD_B,117.0,,NYSE,N,,,N,2026-05-26,SP500
+COF,Capital One Financial Corporation,US,Financials,Consumer Finance,116.0,USD_B,116.0,,NYSE,N,,,N,2026-05-26,SP500
+DHR,Danaher Corporation,US,Health Care,Life Sciences Tools,115.0,USD_B,115.0,,NYSE,N,,,N,2026-05-26,SP500
+INTU,Intuit Inc.,US,Information Technology,Software,111.0,USD_B,111.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+VRTX,Vertex Pharmaceuticals Incorporated,US,Health Care,Biotechnology,110.0,USD_B,110.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CME,CME Group Inc.,US,Financials,Capital Markets,110.0,USD_B,110.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ACN,Accenture plc,US,Information Technology,IT Services,109.0,USD_B,109.0,,NYSE,N,,,N,2026-05-26,SP500
+PWR,Quanta Services Inc.,US,Industrials,Construction & Engineering,108.0,USD_B,108.0,,NYSE,N,,,N,2026-05-26,SP500
+PH,Parker-Hannifin Corporation,US,Industrials,Machinery,108.0,USD_B,108.0,,NYSE,N,,,N,2026-05-26,SP500
+NOW,ServiceNow Inc.,US,Information Technology,Software,106.0,USD_B,106.0,,NYSE,N,,,N,2026-05-26,SP500
+SO,The Southern Company,US,Utilities,Electric Utilities,105.0,USD_B,105.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+EQIX,Equinix Inc.,US,Real Estate,Specialized REITs,104.0,USD_B,104.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ADBE,Adobe Inc.,US,Information Technology,Software,103.0,USD_B,103.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+HWM,Howmet Aerospace Inc.,US,Industrials,Aerospace & Defense,102.0,USD_B,102.0,,NYSE,N,,,N,2026-05-26,SP500
+TT,Trane Technologies plc,US,Industrials,Building Products,101.0,USD_B,101.0,,NYSE,N,,,N,2026-05-26,SP500
+MDT,Medtronic plc,US,Health Care,Health Care Equipment,99.0,USD_B,99.0,,NYSE,N,,,N,2026-05-26,SP500
+DUK,Duke Energy Corporation,US,Utilities,Electric Utilities,95.0,USD_B,95.0,,NYSE,N,,DEFENSIVE,N,2026-05-26,SP500
+SNPS,Synopsys Inc.,US,Information Technology,Software,95.0,USD_B,95.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CDNS,Cadence Design Systems Inc.,US,Information Technology,Software,95.0,USD_B,95.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+WMB,The Williams Companies Inc.,US,Energy,Oil Gas & Consumable Fuels,95.0,USD_B,95.0,,NYSE,N,,,N,2026-05-26,SP500
+MAR,Marriott International Inc.,US,Consumer Discretionary,Hotels Restaurants,94.0,USD_B,94.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CEG,Constellation Energy Corporation,US,Utilities,Electric Utilities,94.0,USD_B,94.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+HCA,HCA Healthcare Inc.,US,Health Care,Health Care Providers,93.0,USD_B,93.0,,NYSE,N,,,N,2026-05-26,SP500
+BK,The Bank of New York Mellon Corporation,US,Financials,Capital Markets,93.0,USD_B,93.0,,NYSE,N,,,N,2026-05-26,SP500
+CMI,Cummins Inc.,US,Industrials,Machinery,93.0,USD_B,93.0,,NYSE,N,,,N,2026-05-26,SP500
+MCK,McKesson Corporation,US,Health Care,Health Care Providers,93.0,USD_B,93.0,,NYSE,N,,,N,2026-05-26,SP500
+FTNT,Fortinet Inc.,US,Information Technology,Software,92.0,USD_B,92.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+GD,General Dynamics Corporation,US,Industrials,Aerospace & Defense,92.0,USD_B,92.0,,NYSE,N,,,N,2026-05-26,SP500
+WM,Waste Management Inc.,US,Industrials,Commercial Services,89.0,USD_B,89.0,,NYSE,N,,,N,2026-05-26,SP500
+ADP,Automatic Data Processing Inc.,US,Industrials,Professional Services,89.0,USD_B,89.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CMCSA,Comcast Corporation,US,Communication Services,Media,89.0,USD_B,89.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ICE,Intercontinental Exchange Inc.,US,Financials,Capital Markets,88.0,USD_B,88.0,,NYSE,N,,,N,2026-05-26,SP500
+FDX,FedEx Corporation,US,Industrials,Air Freight & Logistics,88.0,USD_B,88.0,,NYSE,N,,,N,2026-05-26,SP500
+FCX,Freeport-McMoRan Inc.,US,Materials,Metals & Mining,86.0,USD_B,86.0,,NYSE,N,,,N,2026-05-26,SP500
+MNST,Monster Beverage Corporation,US,Consumer Staples,Beverages,86.0,USD_B,86.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+KKR,KKR & Co. Inc.,US,Financials,Capital Markets,86.0,USD_B,86.0,,NYSE,N,,,N,2026-05-26,SP500
+CSX,CSX Corporation,US,Industrials,Ground Transportation,85.0,USD_B,85.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+PNC,The PNC Financial Services Group Inc.,US,Financials,Banks,85.0,USD_B,85.0,,NYSE,N,,,N,2026-05-26,SP500
+ELV,Elevance Health Inc.,US,Health Care,Health Care Providers,85.0,USD_B,85.0,,NYSE,N,,,N,2026-05-26,SP500
+SLB,SLB N.V.,US,Energy,Energy Equipment,85.0,USD_B,85.0,,NYSE,N,,,N,2026-05-26,SP500
+JCI,Johnson Controls International plc,US,Industrials,Building Products,83.0,USD_B,83.0,,NYSE,N,,,N,2026-05-26,SP500
+BSX,Boston Scientific Corporation,US,Health Care,Health Care Equipment,83.0,USD_B,83.0,,NYSE,N,,,N,2026-05-26,SP500
+USB,U.S. Bancorp,US,Financials,Banks,82.0,USD_B,82.0,,NYSE,N,,,N,2026-05-26,SP500
+AMT,American Tower Corporation,US,Real Estate,Specialized REITs,82.0,USD_B,82.0,,NYSE,N,,,N,2026-05-26,SP500
+UPS,United Parcel Service Inc.,US,Industrials,Air Freight & Logistics,81.0,USD_B,81.0,,NYSE,N,,,N,2026-05-26,SP500
+MMC,Marsh & McLennan Companies Inc.,US,Financials,Insurance,79.0,USD_B,79.0,,NYSE,N,,,N,2026-05-26,SP500
+ABNB,Airbnb Inc.,US,Consumer Discretionary,Hotels Restaurants,79.0,USD_B,79.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MMM,3M Company,US,Industrials,Industrial Conglomerates,79.0,USD_B,79.0,,NYSE,N,,,N,2026-05-26,SP500
+MDLZ,Mondelez International Inc.,US,Consumer Staples,Food Products,79.0,USD_B,79.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+NOC,Northrop Grumman Corporation,US,Industrials,Aerospace & Defense,78.0,USD_B,78.0,,NYSE,N,,,N,2026-05-26,SP500
+MCO,Moody's Corporation,US,Financials,Capital Markets,77.0,USD_B,77.0,,NYSE,N,,,N,2026-05-26,SP500
+APO,Apollo Global Management Inc.,US,Financials,Capital Markets,77.0,USD_B,77.0,,NYSE,N,,,N,2026-05-26,SP500
+VLO,Valero Energy Corporation,US,Energy,Oil Gas & Consumable Fuels,76.0,USD_B,76.0,,NYSE,N,,,N,2026-05-26,SP500
+SPG,Simon Property Group Inc.,US,Real Estate,Retail REITs,76.0,USD_B,76.0,,NYSE,N,,,N,2026-05-26,SP500
+EOG,EOG Resources Inc.,US,Energy,Oil Gas & Consumable Fuels,76.0,USD_B,76.0,,NYSE,N,,,N,2026-05-26,SP500
+ORLY,O'Reilly Automotive Inc.,US,Consumer Discretionary,Specialty Retail,76.0,USD_B,76.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CI,The Cigna Group,US,Health Care,Health Care Providers,75.0,USD_B,75.0,,NYSE,N,,,N,2026-05-26,SP500
+MPC,Marathon Petroleum Corporation,US,Energy,Oil Gas & Consumable Fuels,75.0,USD_B,75.0,,NYSE,N,,,N,2026-05-26,SP500
+KMI,Kinder Morgan Inc.,US,Energy,Oil Gas & Consumable Fuels,75.0,USD_B,75.0,,NYSE,N,,,N,2026-05-26,SP500
+DDOG,Datadog Inc.,US,Information Technology,Software,74.0,USD_B,74.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+SHW,The Sherwin-Williams Company,US,Materials,Chemicals,74.0,USD_B,74.0,,NYSE,N,,,N,2026-05-26,SP500
+CIEN,Ciena Corporation,US,Information Technology,Communications Equipment,74.0,USD_B,74.0,,NYSE,N,,,N,2026-05-26,SP500
+EMR,Emerson Electric Co.,US,Industrials,Electrical Equipment,74.0,USD_B,74.0,,NYSE,N,,,N,2026-05-26,SP500
+NXPI,NXP Semiconductors N.V.,US,Information Technology,Semiconductors,73.0,USD_B,73.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MPWR,Monolithic Power Systems Inc.,US,Information Technology,Semiconductors,73.0,USD_B,73.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CVNA,Carvana Co.,US,Consumer Discretionary,Specialty Retail,72.0,USD_B,72.0,,NYSE,N,,,N,2026-05-26,SP500
+HLT,Hilton Worldwide Holdings Inc.,US,Consumer Discretionary,Hotels Restaurants,72.0,USD_B,72.0,,NYSE,N,,,N,2026-05-26,SP500
+PSX,Phillips 66,US,Energy,Oil Gas & Consumable Fuels,72.0,USD_B,72.0,,NYSE,N,,,N,2026-05-26,SP500
+CL,Colgate-Palmolive Company,US,Consumer Staples,Household Products,71.0,USD_B,71.0,,NYSE,N,,,N,2026-05-26,SP500
+NSC,Norfolk Southern Corporation,US,Industrials,Ground Transportation,71.0,USD_B,71.0,,NYSE,N,,,N,2026-05-26,SP500
+ITW,Illinois Tool Works Inc.,US,Industrials,Machinery,71.0,USD_B,71.0,,NYSE,N,,,N,2026-05-26,SP500
+COHR,Coherent Corp.,US,Information Technology,Communications Equipment,70.0,USD_B,70.0,,NYSE,N,,,N,2026-05-26,SP500
+DASH,DoorDash Inc.,US,Consumer Discretionary,Hotels Restaurants,70.0,USD_B,70.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ECL,Ecolab Inc.,US,Materials,Chemicals,70.0,USD_B,70.0,,NYSE,N,,,N,2026-05-26,SP500
+CTAS,Cintas Corporation,US,Industrials,Commercial Services,69.0,USD_B,69.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+AON,Aon plc,US,Financials,Insurance,69.0,USD_B,69.0,,NYSE,N,,,N,2026-05-26,SP500
+HOOD,Robinhood Markets Inc.,US,Financials,Capital Markets,69.0,USD_B,69.0,,NASDAQ,N,,,N,2026-05-26,SP500
+AEP,American Electric Power Company Inc.,US,Utilities,Electric Utilities,69.0,USD_B,69.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+CRH,CRH plc,US,Materials,Construction Materials,69.0,USD_B,69.0,,NYSE,N,,,N,2026-05-26,SP500
+MSI,Motorola Solutions Inc.,US,Information Technology,Communications Equipment,68.0,USD_B,68.0,,NYSE,N,,,N,2026-05-26,SP500
+ROST,Ross Stores Inc.,US,Consumer Discretionary,Specialty Retail,68.0,USD_B,68.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+WBD,Warner Bros. Discovery Inc.,US,Communication Services,Entertainment,67.0,USD_B,67.0,,NASDAQ,N,,,Y,2026-05-26,SP500+NDX
+RCL,Royal Caribbean Cruises Ltd.,US,Consumer Discretionary,Hotels Restaurants,67.0,USD_B,67.0,,NYSE,N,,,N,2026-05-26,SP500
+DLR,Digital Realty Trust Inc.,US,Real Estate,Specialized REITs,67.0,USD_B,67.0,,NYSE,N,,,N,2026-05-26,SP500
+TDG,TransDigm Group Incorporated,US,Industrials,Aerospace & Defense,66.0,USD_B,66.0,,NYSE,N,,,N,2026-05-26,SP500
+RSG,Republic Services Inc.,US,Industrials,Commercial Services,66.0,USD_B,66.0,,NYSE,N,,,N,2026-05-26,SP500
+GM,General Motors Company,US,Consumer Discretionary,Automobiles,65.0,USD_B,65.0,,NYSE,N,,,Y,2026-05-26,SP500
+BKR,Baker Hughes Company,US,Energy,Energy Equipment,65.0,USD_B,65.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+APD,Air Products and Chemicals Inc.,US,Materials,Chemicals,65.0,USD_B,65.0,,NYSE,N,,,N,2026-05-26,SP500
+FIX,Comfort Systems USA Inc.,US,Industrials,Construction & Engineering,65.0,USD_B,65.0,,NYSE,N,,,N,2026-05-26,SP500
+TRV,The Travelers Companies Inc.,US,Financials,Insurance,65.0,USD_B,65.0,,NYSE,N,,,N,2026-05-26,SP500
+REGN,Regeneron Pharmaceuticals Inc.,US,Health Care,Biotechnology,64.0,USD_B,64.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+LITE,Lumentum Holdings Inc.,US,Information Technology,Communications Equipment,63.0,USD_B,63.0,,NASDAQ,N,,,N,2026-05-26,SP500
+NKE,NIKE Inc.,US,Consumer Discretionary,Textiles & Apparel,63.0,USD_B,63.0,,NYSE,N,,,Y,2026-05-26,SP500
+AFL,Aflac Incorporated,US,Financials,Insurance,60.0,USD_B,60.0,,NYSE,N,,,N,2026-05-26,SP500
+GWW,W.W. Grainger Inc.,US,Industrials,Trading Companies,59.0,USD_B,59.0,,NYSE,N,,,N,2026-05-26,SP500
+D,Dominion Energy Inc.,US,Utilities,Multi-Utilities,59.0,USD_B,59.0,,NYSE,N,,,N,2026-05-26,SP500
+OXY,Occidental Petroleum Corporation,US,Energy,Oil Gas & Consumable Fuels,59.0,USD_B,59.0,,NYSE,N,,,N,2026-05-26,SP500
+URI,United Rentals Inc.,US,Industrials,Trading Companies,59.0,USD_B,59.0,,NYSE,N,,,N,2026-05-26,SP500
+OKE,ONEOK Inc.,US,Energy,Oil Gas & Consumable Fuels,59.0,USD_B,59.0,,NYSE,N,,,N,2026-05-26,SP500
+SRE,Sempra,US,Utilities,Multi-Utilities,58.0,USD_B,58.0,,NYSE,N,,,N,2026-05-26,SP500
+TRGP,Targa Resources Corp.,US,Energy,Oil Gas & Consumable Fuels,58.0,USD_B,58.0,,NYSE,N,,,N,2026-05-26,SP500
+PCAR,PACCAR Inc,US,Industrials,Machinery,58.0,USD_B,58.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+TFC,Truist Financial Corporation,US,Financials,Banks,58.0,USD_B,58.0,,NYSE,N,,,N,2026-05-26,SP500
+TEL,TE Connectivity plc,US,Information Technology,Electronic Components,58.0,USD_B,58.0,,NYSE,N,,,N,2026-05-26,SP500
+KEYS,Keysight Technologies Inc.,US,Information Technology,Electronic Equipment,58.0,USD_B,58.0,,NYSE,N,,,N,2026-05-26,SP500
+LHX,L3Harris Technologies Inc.,US,Industrials,Aerospace & Defense,57.0,USD_B,57.0,,NYSE,N,,,N,2026-05-26,SP500
+FANG,Diamondback Energy Inc.,US,Energy,Oil Gas & Consumable Fuels,57.0,USD_B,57.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+O,Realty Income Corporation,US,Real Estate,Retail REITs,57.0,USD_B,57.0,,NYSE,N,,,N,2026-05-26,SP500
+DVN,Devon Energy Corporation,US,Energy,Oil Gas & Consumable Fuels,57.0,USD_B,57.0,,NYSE,N,,,N,2026-05-26,SP500
+ALL,The Allstate Corporation,US,Financials,Insurance,56.0,USD_B,56.0,,NYSE,N,,,N,2026-05-26,SP500
+TGT,Target Corporation,US,Consumer Staples,Consumer Staples Distribution,56.0,USD_B,56.0,,NYSE,N,,,Y,2026-05-26,SP500
+AZO,AutoZone Inc.,US,Consumer Discretionary,Specialty Retail,55.0,USD_B,55.0,,NYSE,N,,,N,2026-05-26,SP500
+CTVA,Corteva Inc.,US,Materials,Chemicals,54.0,USD_B,54.0,,NYSE,N,,,N,2026-05-26,SP500
+CARR,Carrier Global Corporation,US,Industrials,Building Products,53.0,USD_B,53.0,,NYSE,N,,,N,2026-05-26,SP500
+AJG,Arthur J. Gallagher & Co.,US,Financials,Insurance,53.0,USD_B,53.0,,NYSE,N,,,N,2026-05-26,SP500
+MET,MetLife Inc.,US,Financials,Insurance,52.0,USD_B,52.0,,NYSE,N,,,N,2026-05-26,SP500
+NDAQ,Nasdaq Inc.,US,Financials,Capital Markets,52.0,USD_B,52.0,,NASDAQ,N,,,N,2026-05-26,SP500
+PSA,Public Storage,US,Real Estate,Specialized REITs,52.0,USD_B,52.0,,NYSE,N,,,N,2026-05-26,SP500
+F,Ford Motor Company,US,Consumer Discretionary,Automobiles,51.0,USD_B,51.0,,NYSE,N,,,Y,2026-05-26,SP500
+AME,AMETEK Inc.,US,Industrials,Electrical Equipment,51.0,USD_B,51.0,,NYSE,N,,,N,2026-05-26,SP500
+NUE,Nucor Corporation,US,Materials,Metals & Mining,51.0,USD_B,51.0,,NYSE,N,,,N,2026-05-26,SP500
+ADSK,Autodesk Inc.,US,Information Technology,Software,51.0,USD_B,51.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+COR,Cencora Inc.,US,Health Care,Health Care Providers,50.0,USD_B,50.0,,NYSE,N,,,N,2026-05-26,SP500
+EBAY,eBay Inc.,US,Consumer Discretionary,Broadline Retail,50.0,USD_B,50.0,,NASDAQ,N,,,N,2026-05-26,SP500
+FAST,Fastenal Company,US,Industrials,Trading Companies,50.0,USD_B,50.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+EA,Electronic Arts Inc.,US,Communication Services,Entertainment,50.0,USD_B,50.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+TER,Teradyne Inc.,US,Information Technology,Semiconductor Equipment,50.0,USD_B,50.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MCHP,Microchip Technology Incorporated,US,Information Technology,Semiconductors,50.0,USD_B,50.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ETR,Entergy Corporation,US,Utilities,Electric Utilities,50.0,USD_B,50.0,,NYSE,N,,,N,2026-05-26,SP500
+COIN,Coinbase Global Inc.,US,Financials,Capital Markets,49.0,USD_B,49.0,,NASDAQ,N,,,N,2026-05-26,SP500
+XEL,Xcel Energy Inc.,US,Utilities,Electric Utilities,48.0,USD_B,48.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ROK,Rockwell Automation Inc.,US,Industrials,Electrical Equipment,48.0,USD_B,48.0,,NYSE,N,,,N,2026-05-26,SP500
+EW,Edwards Lifesciences Corporation,US,Health Care,Health Care Equipment,47.0,USD_B,47.0,,NYSE,N,,,N,2026-05-26,SP500
+CAH,Cardinal Health Inc.,US,Health Care,Health Care Providers,46.0,USD_B,46.0,,NYSE,N,,,N,2026-05-26,SP500
+VST,Vistra Corp.,US,Utilities,Independent Power Producers,46.0,USD_B,46.0,,NYSE,N,,,N,2026-05-26,SP500
+DAL,Delta Air Lines Inc.,US,Industrials,Passenger Airlines,45.0,USD_B,45.0,,NYSE,N,,,N,2026-05-26,SP500
+EXC,Exelon Corporation,US,Utilities,Electric Utilities,44.0,USD_B,44.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+TTWO,Take-Two Interactive Software Inc.,US,Communication Services,Entertainment,44.0,USD_B,44.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+WAB,Wabtec Corporation,US,Industrials,Machinery,44.0,USD_B,44.0,,NYSE,N,,,N,2026-05-26,SP500
+HPE,Hewlett Packard Enterprise Company,US,Information Technology,Technology Hardware,43.0,USD_B,43.0,,NYSE,N,,,N,2026-05-26,SP500
+GRMN,Garmin Ltd.,US,Consumer Discretionary,Household Durables,43.0,USD_B,43.0,,NYSE,N,,,N,2026-05-26,SP500
+FITB,Fifth Third Bancorp,US,Financials,Banks,43.0,USD_B,43.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CMG,Chipotle Mexican Grill Inc.,US,Consumer Discretionary,Hotels Restaurants,43.0,USD_B,43.0,,NYSE,N,,,N,2026-05-26,SP500
+VTR,Ventas Inc.,US,Real Estate,Health Care REITs,43.0,USD_B,43.0,,NYSE,N,,,N,2026-05-26,SP500
+IDXX,IDEXX Laboratories Inc.,US,Health Care,Health Care Equipment,43.0,USD_B,43.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ON,ON Semiconductor Corporation,US,Information Technology,Semiconductors,42.0,USD_B,42.0,,NASDAQ,N,,,N,2026-05-26,SP500
+STT,State Street Corporation,US,Financials,Capital Markets,42.0,USD_B,42.0,,NYSE,N,,,N,2026-05-26,SP500
+MSCI,MSCI Inc.,US,Financials,Capital Markets,42.0,USD_B,42.0,,NYSE,N,,,N,2026-05-26,SP500
+ODFL,Old Dominion Freight Line Inc.,US,Industrials,Ground Transportation,42.0,USD_B,42.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+AMP,Ameriprise Financial Inc.,US,Financials,Capital Markets,42.0,USD_B,42.0,,NYSE,N,,,N,2026-05-26,SP500
+XYZ,Block Inc.,US,Financials,Financial Services,42.0,USD_B,42.0,,NYSE,N,,,N,2026-05-26,SP500
+YUM,Yum! Brands Inc.,US,Consumer Discretionary,Hotels Restaurants,41.0,USD_B,41.0,,NYSE,N,,,N,2026-05-26,SP500
+KR,The Kroger Co.,US,Consumer Staples,Consumer Staples Distribution,41.0,USD_B,41.0,,NYSE,N,,,N,2026-05-26,SP500
+AIG,American International Group Inc.,US,Financials,Insurance,41.0,USD_B,41.0,,NYSE,N,,,N,2026-05-26,SP500
+ARES,Ares Management Corporation,US,Financials,Capital Markets,40.0,USD_B,40.0,,NYSE,N,,,N,2026-05-26,SP500
+KDP,Keurig Dr Pepper Inc.,US,Consumer Staples,Beverages,40.0,USD_B,40.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+SATS,EchoStar Corporation,US,Communication Services,Wireless Telecommunication,39.0,USD_B,39.0,,NASDAQ,N,,,N,2026-05-26,SP500
+ED,Consolidated Edison Inc.,US,Utilities,Electric Utilities,39.0,USD_B,39.0,,NYSE,N,,,N,2026-05-26,SP500
+CCI,Crown Castle Inc.,US,Real Estate,Specialized REITs,39.0,USD_B,39.0,,NYSE,N,,,N,2026-05-26,SP500
+BDX,Becton Dickinson and Company,US,Health Care,Health Care Equipment,39.0,USD_B,39.0,,NYSE,N,,,N,2026-05-26,SP500
+PYPL,PayPal Holdings Inc.,US,Financials,Financial Services,39.0,USD_B,39.0,,NASDAQ,N,,,Y,2026-05-26,SP500+NDX
+ADM,Archer-Daniels-Midland Company,US,Consumer Staples,Food Products,39.0,USD_B,39.0,,NYSE,N,,,N,2026-05-26,SP500
+DHI,D.R. Horton Inc.,US,Consumer Discretionary,Household Durables,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+EME,EMCOR Group Inc.,US,Industrials,Construction & Engineering,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+LYV,Live Nation Entertainment Inc.,US,Communication Services,Entertainment,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+HSY,The Hershey Company,US,Consumer Staples,Food Products,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+IBKR,Interactive Brokers Group Inc.,US,Financials,Capital Markets,38.0,USD_B,38.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CBOE,Cboe Global Markets Inc.,US,Financials,Capital Markets,38.0,USD_B,38.0,,CBOE,N,,,N,2026-05-26,SP500
+PEG,Public Service Enterprise Group Incorporated,US,Utilities,Multi-Utilities,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+CBRE,CBRE Group Inc.,US,Real Estate,Real Estate Management,38.0,USD_B,38.0,,NYSE,N,,,N,2026-05-26,SP500
+HIG,The Hartford Insurance Group Inc.,US,Financials,Insurance,37.0,USD_B,37.0,,NYSE,N,,,N,2026-05-26,SP500
+TKO,TKO Group Holdings Inc.,US,Communication Services,Entertainment,37.0,USD_B,37.0,,NYSE,N,,,N,2026-05-26,SP500
+IRM,Iron Mountain Incorporated,US,Real Estate,Specialized REITs,36.0,USD_B,36.0,,NYSE,N,,,N,2026-05-26,SP500
+HUM,Humana Inc.,US,Health Care,Health Care Providers,36.0,USD_B,36.0,,NYSE,N,,,N,2026-05-26,SP500
+EQT,EQT Corporation,US,Energy,Oil Gas & Consumable Fuels,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+PRU,Prudential Financial Inc.,US,Financials,Insurance,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+HAL,Halliburton Company,US,Energy,Energy Equipment,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+JBL,Jabil Inc.,US,Information Technology,Electronic Components,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+WEC,WEC Energy Group Inc.,US,Utilities,Multi-Utilities,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+SYY,Sysco Corporation,US,Consumer Staples,Consumer Staples Distribution,35.0,USD_B,35.0,,NYSE,N,,,N,2026-05-26,SP500
+PCG,PG&E Corporation,US,Utilities,Electric Utilities,34.0,USD_B,34.0,,NYSE,N,,,N,2026-05-26,SP500
+VMC,Vulcan Materials Company,US,Materials,Construction Materials,34.0,USD_B,34.0,,NYSE,N,,,N,2026-05-26,SP500
+CCL,Carnival Corporation & plc,US,Consumer Discretionary,Hotels Restaurants,34.0,USD_B,34.0,,NYSE,N,,,N,2026-05-26,SP500
+PAYX,Paychex Inc.,US,Industrials,Professional Services,33.0,USD_B,33.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+ROP,Roper Technologies Inc.,US,Information Technology,Software,33.0,USD_B,33.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+MLM,Martin Marietta Materials Inc.,US,Materials,Construction Materials,33.0,USD_B,33.0,,NYSE,N,,,N,2026-05-26,SP500
+ACGL,Arch Capital Group Ltd.,US,Financials,Insurance,33.0,USD_B,33.0,,NASDAQ,N,,,N,2026-05-26,SP500
+LVS,Las Vegas Sands Corp.,US,Consumer Discretionary,Hotels Restaurants,33.0,USD_B,33.0,,NYSE,N,,,N,2026-05-26,SP500
+KVUE,Kenvue Inc.,US,Consumer Staples,Household Products,32.0,USD_B,32.0,,NYSE,N,,,N,2026-05-26,SP500
+STLD,Steel Dynamics Inc.,US,Materials,Metals & Mining,32.0,USD_B,32.0,,NASDAQ,N,,,N,2026-05-26,SP500
+WAT,Waters Corporation,US,Health Care,Life Sciences Tools,32.0,USD_B,32.0,,NYSE,N,,,N,2026-05-26,SP500
+ZTS,Zoetis Inc.,US,Health Care,Pharmaceuticals,32.0,USD_B,32.0,,NYSE,N,,,N,2026-05-26,SP500
+CPRT,Copart Inc.,US,Industrials,Commercial Services,32.0,USD_B,32.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+AXON,Axon Enterprise Inc.,US,Industrials,Aerospace & Defense,32.0,USD_B,32.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX_DEC2024
+WDAY,Workday Inc.,US,Information Technology,Software,32.0,USD_B,32.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+KMB,Kimberly-Clark Corporation,US,Consumer Staples,Household Products,32.0,USD_B,32.0,,NYSE,N,,,N,2026-05-26,SP500
+A,Agilent Technologies Inc.,US,Health Care,Life Sciences Tools,31.0,USD_B,31.0,,NYSE,N,,,N,2026-05-26,SP500
+CASY,Casey's General Stores Inc.,US,Consumer Staples,Consumer Staples Distribution,31.0,USD_B,31.0,,NASDAQ,N,,,N,2026-05-26,SP500
+HBAN,Huntington Bancshares Incorporated,US,Financials,Banks,31.0,USD_B,31.0,,NASDAQ,N,,,N,2026-05-26,SP500
+Q,Qnity Electronics Inc.,US,Information Technology,Electronic Components,31.0,USD_B,31.0,,NYSE,N,,,N,2026-05-26,SP500
+VICI,VICI Properties Inc.,US,Real Estate,Specialized REITs,31.0,USD_B,31.0,,NYSE,N,,,N,2026-05-26,SP500
+EXR,Extra Space Storage Inc.,US,Real Estate,Specialized REITs,30.0,USD_B,30.0,,NYSE,N,,,N,2026-05-26,SP500
+NTRS,Northern Trust Corporation,US,Financials,Capital Markets,30.0,USD_B,30.0,,NASDAQ,N,,,N,2026-05-26,SP500
+FISV,Fiserv Inc.,US,Financials,Financial Services,30.0,USD_B,30.0,,NYSE,N,,,N,2026-05-26,SP500
+MTB,M&T Bank Corporation,US,Financials,Banks,30.0,USD_B,30.0,,NYSE,N,,,N,2026-05-26,SP500
+RJF,Raymond James Financial Inc.,US,Financials,Capital Markets,30.0,USD_B,30.0,,NYSE,N,,,N,2026-05-26,SP500
+UAL,United Airlines Holdings Inc.,US,Industrials,Passenger Airlines,30.0,USD_B,30.0,,NASDAQ,N,,,N,2026-05-26,SP500
+ATO,Atmos Energy Corporation,US,Utilities,Gas Utilities,29.0,USD_B,29.0,,NYSE,N,,,N,2026-05-26,SP500
+AEE,Ameren Corporation,US,Utilities,Multi-Utilities,29.0,USD_B,29.0,,NYSE,N,,,N,2026-05-26,SP500
+RMD,ResMed Inc.,US,Health Care,Health Care Equipment,29.0,USD_B,29.0,,NYSE,N,,,N,2026-05-26,SP500
+DTE,DTE Energy Company,US,Utilities,Multi-Utilities,29.0,USD_B,29.0,,NYSE,N,,,N,2026-05-26,SP500
+EL,The Estée Lauder Companies Inc.,US,Consumer Staples,Personal Care Products,28.0,USD_B,28.0,,NYSE,N,,,Y,2026-05-26,SP500
+IQV,IQVIA Holdings Inc.,US,Health Care,Life Sciences Tools,28.0,USD_B,28.0,,NYSE,N,,,N,2026-05-26,SP500
+CNC,Centene Corporation,US,Health Care,Health Care Providers,28.0,USD_B,28.0,,NYSE,N,,,N,2026-05-26,SP500
+TDY,Teledyne Technologies Incorporated,US,Industrials,Aerospace & Defense,28.0,USD_B,28.0,,NYSE,N,,,N,2026-05-26,SP500
+DOV,Dover Corporation,US,Industrials,Machinery,28.0,USD_B,28.0,,NYSE,N,,,N,2026-05-26,SP500
+BIIB,Biogen Inc.,US,Health Care,Biotechnology,28.0,USD_B,28.0,,NASDAQ,N,,,Y,2026-05-26,SP500
+GEHC,GE HealthCare Technologies Inc.,US,Health Care,Health Care Equipment,27.0,USD_B,27.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+VRSN,VeriSign Inc.,US,Information Technology,IT Services,27.0,USD_B,27.0,,NASDAQ,N,,,N,2026-05-26,SP500
+DOW,Dow Inc.,US,Materials,Chemicals,27.0,USD_B,27.0,,NYSE,N,,,N,2026-05-26,SP500
+KHC,The Kraft Heinz Company,US,Consumer Staples,Food Products,27.0,USD_B,27.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+FOXA,Fox Corporation Class A,US,Communication Services,Media,27.0,USD_B,27.0,,NASDAQ,N,,,N,2026-05-26,SP500
+FICO,Fair Isaac Corporation,US,Information Technology,Software,27.0,USD_B,27.0,,NYSE,N,,,N,2026-05-26,SP500
+IR,Ingersoll Rand Inc.,US,Industrials,Machinery,27.0,USD_B,27.0,,NYSE,N,,,N,2026-05-26,SP500
+OTIS,Otis Worldwide Corporation,US,Industrials,Machinery,27.0,USD_B,27.0,,NYSE,N,,,N,2026-05-26,SP500
+CNP,CenterPoint Energy Inc.,US,Utilities,Multi-Utilities,27.0,USD_B,27.0,,NYSE,N,,,N,2026-05-26,SP500
+WRB,W. R. Berkley Corporation,US,Financials,Insurance,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+TPL,Texas Pacific Land Corporation,US,Energy,Oil Gas & Consumable Fuels,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+TPR,Tapestry Inc.,US,Consumer Discretionary,Textiles & Apparel,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+NRG,NRG Energy Inc.,US,Utilities,Independent Power Producers,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+EIX,Edison International,US,Utilities,Electric Utilities,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+ROL,Rollins Inc.,US,Industrials,Commercial Services,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+PPL,PPL Corporation,US,Utilities,Electric Utilities,26.0,USD_B,26.0,,NYSE,N,,,N,2026-05-26,SP500
+FOX,Fox Corporation Class B,US,Communication Services,Media,26.0,USD_B,26.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CINF,Cincinnati Financial Corporation,US,Financials,Insurance,25.0,USD_B,25.0,,NASDAQ,N,,,N,2026-05-26,SP500
+AVB,AvalonBay Communities Inc.,US,Real Estate,Residential REITs,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+CFG,Citizens Financial Group Inc.,US,Financials,Banks,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+EXPE,Expedia Group Inc.,US,Consumer Discretionary,Hotels Restaurants,25.0,USD_B,25.0,,NASDAQ,N,,,N,2026-05-26,SP500
+XYL,Xylem Inc.,US,Industrials,Machinery,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+FE,FirstEnergy Corp.,US,Utilities,Electric Utilities,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+ES,Eversource Energy,US,Utilities,Electric Utilities,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+STZ,Constellation Brands Inc.,US,Consumer Staples,Beverages,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+EQR,Equity Residential,US,Real Estate,Residential REITs,25.0,USD_B,25.0,,NYSE,N,,,N,2026-05-26,SP500
+DXCM,DexCom Inc.,US,Health Care,Health Care Equipment,25.0,USD_B,25.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+FSLR,First Solar Inc.,US,Information Technology,Semiconductors,25.0,USD_B,25.0,,NASDAQ,N,,,N,2026-05-26,SP500
+HUBB,Hubbell Incorporated,US,Industrials,Electrical Equipment,24.0,USD_B,24.0,,NYSE,N,,,N,2026-05-26,SP500
+JBHT,J.B. Hunt Transport Services Inc.,US,Industrials,Ground Transportation,24.0,USD_B,24.0,,NASDAQ,N,,,N,2026-05-26,SP500
+AWK,American Water Works Company Inc.,US,Utilities,Water Utilities,24.0,USD_B,24.0,,NYSE,N,,,N,2026-05-26,SP500
+CTSH,Cognizant Technology Solutions Corporation,US,Information Technology,IT Services,24.0,USD_B,24.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+WTW,Willis Towers Watson Public Limited Company,US,Financials,Insurance,24.0,USD_B,24.0,,NASDAQ,N,,,N,2026-05-26,SP500
+BG,Bunge Global SA,US,Consumer Staples,Food Products,24.0,USD_B,24.0,,NYSE,N,,,N,2026-05-26,SP500
+LYB,LyondellBasell Industries N.V.,US,Materials,Chemicals,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+SYF,Synchrony Financial,US,Financials,Consumer Finance,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+NTAP,NetApp Inc.,US,Information Technology,Technology Hardware,23.0,USD_B,23.0,,NASDAQ,N,,,N,2026-05-26,SP500
+EXE,Expand Energy Corporation,US,Energy,Oil Gas & Consumable Fuels,23.0,USD_B,23.0,,NASDAQ,N,,,N,2026-05-26,SP500
+TSN,Tyson Foods Inc.,US,Consumer Staples,Food Products,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+DG,Dollar General Corporation,US,Consumer Staples,Consumer Staples Distribution,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+PPG,PPG Industries Inc.,US,Materials,Chemicals,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+RF,Regions Financial Corporation,US,Financials,Banks,23.0,USD_B,23.0,,NYSE,N,,,N,2026-05-26,SP500
+CHD,Church & Dwight Co. Inc.,US,Consumer Staples,Household Products,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+KEY,KeyCorp,US,Financials,Banks,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+CPAY,Corpay Inc.,US,Financials,Financial Services,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+VRSK,Verisk Analytics Inc.,US,Industrials,Professional Services,22.0,USD_B,22.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+FIS,Fidelity National Information Services Inc.,US,Financials,Financial Services,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+NI,NiSource Inc.,US,Utilities,Multi-Utilities,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+CMS,CMS Energy Corporation,US,Utilities,Multi-Utilities,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+L,Loews Corporation,US,Financials,Insurance,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+DRI,Darden Restaurants Inc.,US,Consumer Discretionary,Hotels Restaurants,22.0,USD_B,22.0,,NYSE,N,,,N,2026-05-26,SP500
+PFG,Principal Financial Group Inc.,US,Financials,Insurance,22.0,USD_B,22.0,,NASDAQ,N,,,N,2026-05-26,SP500
+TROW,T. Rowe Price Group Inc.,US,Financials,Capital Markets,21.0,USD_B,21.0,,NASDAQ,N,,,N,2026-05-26,SP500
+AKAM,Akamai Technologies Inc.,US,Information Technology,IT Services,21.0,USD_B,21.0,,NASDAQ,N,,,N,2026-05-26,SP500
+MTD,Mettler-Toledo International Inc.,US,Health Care,Life Sciences Tools,21.0,USD_B,21.0,,NYSE,N,,,N,2026-05-26,SP500
+SBAC,SBA Communications Corporation,US,Real Estate,Specialized REITs,21.0,USD_B,21.0,,NASDAQ,N,,,N,2026-05-26,SP500
+WST,West Pharmaceutical Services Inc.,US,Health Care,Life Sciences Tools,21.0,USD_B,21.0,,NYSE,N,,,N,2026-05-26,SP500
+FFIV,F5 Inc.,US,Information Technology,Communications Equipment,21.0,USD_B,21.0,,NASDAQ,N,,,N,2026-05-26,SP500
+VLTO,Veralto Corporation,US,Industrials,Machinery,21.0,USD_B,21.0,,NYSE,N,,,N,2026-05-26,SP500
+PHM,PulteGroup Inc.,US,Consumer Discretionary,Household Durables,21.0,USD_B,21.0,,NYSE,N,,,N,2026-05-26,SP500
+DGX,Quest Diagnostics Incorporated,US,Health Care,Health Care Providers,21.0,USD_B,21.0,,NYSE,N,,,N,2026-05-26,SP500
+LH,Labcorp Holdings Inc.,US,Health Care,Health Care Providers,20.0,USD_B,20.0,,NYSE,N,,,N,2026-05-26,SP500
+ULTA,Ulta Beauty Inc.,US,Consumer Discretionary,Specialty Retail,20.0,USD_B,20.0,,NASDAQ,N,,,N,2026-05-26,SP500
+STE,STERIS plc,US,Health Care,Health Care Equipment,20.0,USD_B,20.0,,NYSE,N,,,N,2026-05-26,SP500
+OMC,Omnicom Group Inc.,US,Communication Services,Media,20.0,USD_B,20.0,,NYSE,N,,,N,2026-05-26,SP500
+ALB,Albemarle Corporation,US,Materials,Chemicals,20.0,USD_B,20.0,,NYSE,N,,,N,2026-05-26,SP500
+LEN,Lennar Corporation,US,Consumer Discretionary,Household Durables,20.0,USD_B,20.0,,NYSE,N,,,N,2026-05-26,SP500
+EXPD,Expeditors International of Washington Inc.,US,Industrials,Air Freight & Logistics,20.0,USD_B,20.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CHRW,C.H. Robinson Worldwide Inc.,US,Industrials,Air Freight & Logistics,20.0,USD_B,20.0,,NASDAQ,N,,,N,2026-05-26,SP500
+DD,DuPont de Nemours Inc.,US,Materials,Chemicals,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+WSM,Williams-Sonoma Inc.,US,Consumer Discretionary,Specialty Retail,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+BRO,Brown & Brown Inc.,US,Financials,Insurance,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+RL,Ralph Lauren Corporation,US,Consumer Discretionary,Textiles & Apparel,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+SW,Smurfit Westrock Plc,US,Materials,Containers & Packaging,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+CHTR,Charter Communications Inc.,US,Communication Services,Media,19.0,USD_B,19.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+EFX,Equifax Inc.,US,Industrials,Professional Services,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+CF,CF Industries Holdings Inc.,US,Materials,Chemicals,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+VTRS,Viatris Inc.,US,Health Care,Pharmaceuticals,19.0,USD_B,19.0,,NASDAQ,N,,,N,2026-05-26,SP500
+HPQ,HP Inc.,US,Information Technology,Technology Hardware,19.0,USD_B,19.0,,NYSE,N,,,N,2026-05-26,SP500
+MRNA,Moderna Inc.,US,Health Care,Biotechnology,19.0,USD_B,19.0,,NASDAQ,N,,,Y,2026-05-26,SP500
+INCY,Incyte Corporation,US,Health Care,Biotechnology,19.0,USD_B,19.0,,NASDAQ,N,,,N,2026-05-26,SP500
+EVRG,Evergy Inc.,US,Utilities,Electric Utilities,18.0,USD_B,18.0,,NASDAQ,N,,,N,2026-05-26,SP500
+SNA,Snap-on Incorporated,US,Industrials,Machinery,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+IFF,International Flavors & Fragrances Inc.,US,Materials,Chemicals,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+GPN,Global Payments Inc.,US,Financials,Financial Services,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+LUV,Southwest Airlines Co.,US,Industrials,Passenger Airlines,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+PKG,Packaging Corporation of America,US,Materials,Containers & Packaging,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+LNT,Alliant Energy Corporation,US,Utilities,Electric Utilities,18.0,USD_B,18.0,,NASDAQ,N,,,N,2026-05-26,SP500
+SMCI,Super Micro Computer Inc.,US,Information Technology,Technology Hardware,18.0,USD_B,18.0,,NASDAQ,N,,,Y,2026-05-26,SP500
+ESS,Essex Property Trust Inc.,US,Real Estate,Residential REITs,18.0,USD_B,18.0,,NYSE,N,,,N,2026-05-26,SP500
+FTV,Fortive Corporation,US,Industrials,Electrical Equipment,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+GIS,General Mills Inc.,US,Consumer Staples,Food Products,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+DLTR,Dollar Tree Inc.,US,Consumer Staples,Consumer Staples Distribution,17.0,USD_B,17.0,,NASDAQ,N,,,N,2026-05-26,SP500
+LII,Lennox International Inc.,US,Industrials,Building Products,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+BR,Broadridge Financial Solutions Inc.,US,Industrials,Professional Services,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+AMCR,Amcor plc,US,Materials,Containers & Packaging,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+INVH,Invitation Homes Inc.,US,Real Estate,Residential REITs,17.0,USD_B,17.0,,NYSE,N,,,N,2026-05-26,SP500
+PTC,PTC Inc.,US,Information Technology,Software,16.0,USD_B,16.0,,NASDAQ,N,,,N,2026-05-26,SP500
+TSCO,Tractor Supply Company,US,Consumer Discretionary,Specialty Retail,16.0,USD_B,16.0,,NASDAQ,N,,,N,2026-05-26,SP500
+BEN,Franklin Resources Inc.,US,Financials,Capital Markets,16.0,USD_B,16.0,,NYSE,N,,,N,2026-05-26,SP500
+WY,Weyerhaeuser Company,US,Real Estate,Specialized REITs,16.0,USD_B,16.0,,NYSE,N,,,N,2026-05-26,SP500
+ZBH,Zimmer Biomet Holdings Inc.,US,Health Care,Health Care Equipment,16.0,USD_B,16.0,,NYSE,N,,,N,2026-05-26,SP500
+IP,International Paper Company,US,Materials,Containers & Packaging,16.0,USD_B,16.0,,NYSE,N,,,N,2026-05-26,SP500
+KIM,Kimco Realty Corporation,US,Real Estate,Retail REITs,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+TXT,Textron Inc.,US,Industrials,Aerospace & Defense,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+LDOS,Leidos Holdings Inc.,US,Industrials,IT Services,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+IEX,IDEX Corporation,US,Industrials,Machinery,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+NDSN,Nordson Corporation,US,Industrials,Machinery,15.0,USD_B,15.0,,NASDAQ,N,,,N,2026-05-26,SP500
+NVR,NVR Inc.,US,Consumer Discretionary,Household Durables,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+MAA,Mid-America Apartment Communities Inc.,US,Real Estate,Residential REITs,15.0,USD_B,15.0,,NYSE,N,,,N,2026-05-26,SP500
+HST,Host Hotels & Resorts Inc.,US,Real Estate,Hotel & Resort REITs,15.0,USD_B,15.0,,NASDAQ,N,,,N,2026-05-26,SP500
+NWS,News Corporation Class B,US,Communication Services,Media,15.0,USD_B,15.0,,NASDAQ,N,,,N,2026-05-26,SP500
+GNRC,Generac Holdings Inc.,US,Industrials,Electrical Equipment,14.0,USD_B,14.0,,NYSE,N,,,N,2026-05-26,SP500
+BALL,Ball Corporation,US,Materials,Containers & Packaging,14.0,USD_B,14.0,,NYSE,N,,,N,2026-05-26,SP500
+GEN,Gen Digital Inc.,US,Information Technology,Software,14.0,USD_B,14.0,,NASDAQ,N,,,N,2026-05-26,SP500
+REG,Regency Centers Corporation,US,Real Estate,Retail REITs,14.0,USD_B,14.0,,NASDAQ,N,,,N,2026-05-26,SP500
+NWSA,News Corporation Class A,US,Communication Services,Media,14.0,USD_B,14.0,,NASDAQ,N,,,N,2026-05-26,SP500
+APA,APA Corporation,US,Energy,Oil Gas & Consumable Fuels,14.0,USD_B,14.0,,NASDAQ,N,,,N,2026-05-26,SP500
+EG,Everest Group Ltd.,US,Financials,Insurance,14.0,USD_B,14.0,,NYSE,N,,,N,2026-05-26,SP500
+LULU,lululemon athletica inc.,US,Consumer Discretionary,Textiles & Apparel,13.0,USD_B,13.0,,NASDAQ,N,,,N,2026-05-26,SP500
+DOC,Healthpeak Properties Inc.,US,Real Estate,Health Care REITs,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+CSGP,CoStar Group Inc.,US,Industrials,Professional Services,13.0,USD_B,13.0,,NASDAQ,N,,,N,2026-05-26,SP500+NDX
+TYL,Tyler Technologies Inc.,US,Information Technology,Software,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+DECK,Deckers Outdoor Corporation,US,Consumer Discretionary,Textiles & Apparel,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+J,Jacobs Solutions Inc.,US,Industrials,Construction & Engineering,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+UDR,UDR Inc.,US,Real Estate,Residential REITs,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+CDW,CDW Corporation,US,Information Technology,Electronic Equipment,13.0,USD_B,13.0,,NASDAQ,N,,,N,2026-05-26,SP500
+HAS,Hasbro Inc.,US,Consumer Discretionary,Leisure Products,13.0,USD_B,13.0,,NASDAQ,N,,,N,2026-05-26,SP500
+SOLV,Solventum Corporation,US,Health Care,Health Care Equipment,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+MAS,Masco Corporation,US,Industrials,Building Products,13.0,USD_B,13.0,,NYSE,N,,,N,2026-05-26,SP500
+HII,Huntington Ingalls Industries Inc.,US,Industrials,Aerospace & Defense,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+TRMB,Trimble Inc.,US,Information Technology,Electronic Equipment,12.0,USD_B,12.0,,NASDAQ,N,,,N,2026-05-26,SP500
+GPC,Genuine Parts Company,US,Consumer Discretionary,Distributors,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+DVA,DaVita Inc.,US,Health Care,Health Care Providers,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+AIZ,Assurant Inc.,US,Financials,Insurance,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+MKC,McCormick & Company Incorporated,US,Consumer Staples,Food Products,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+ZBRA,Zebra Technologies Corporation,US,Information Technology,Electronic Equipment,12.0,USD_B,12.0,,NASDAQ,N,,,N,2026-05-26,SP500
+GL,Globe Life Inc.,US,Financials,Insurance,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+BBY,Best Buy Co. Inc.,US,Consumer Discretionary,Specialty Retail,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+IVZ,Invesco Ltd.,US,Financials,Capital Markets,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+GDDY,GoDaddy Inc.,US,Information Technology,Software,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+PNW,Pinnacle West Capital Corporation,US,Utilities,Electric Utilities,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+BF.B,Brown-Forman Corporation,US,Consumer Staples,Beverages,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+AVY,Avery Dennison Corporation,US,Materials,Containers & Packaging,12.0,USD_B,12.0,,NYSE,N,,,N,2026-05-26,SP500
+COO,The Cooper Companies Inc.,US,Health Care,Health Care Equipment,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+PNR,Pentair plc,US,Industrials,Machinery,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+SWK,Stanley Black & Decker Inc.,US,Consumer Discretionary,Household Durables,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+ERIE,Erie Indemnity Company,US,Financials,Insurance,11.0,USD_B,11.0,,NASDAQ,N,,,N,2026-05-26,SP500
+ALGN,Align Technology Inc.,US,Health Care,Health Care Equipment,11.0,USD_B,11.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CLX,The Clorox Company,US,Consumer Staples,Household Products,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+APTV,Aptiv PLC,US,Consumer Discretionary,Automobile Components,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+HRL,Hormel Foods Corporation,US,Consumer Staples,Food Products,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+SJM,The J. M. Smucker Company,US,Consumer Staples,Food Products,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+ALLE,Allegion plc,US,Industrials,Building Products,11.0,USD_B,11.0,,NYSE,N,,,N,2026-05-26,SP500
+PSKY,Paramount Skydance Corporation,US,Communication Services,Entertainment,11.0,USD_B,11.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CPT,Camden Property Trust,US,Real Estate,Residential REITs,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+BXP,BXP Inc.,US,Real Estate,Office REITs,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+RVTY,Revvity Inc.,US,Health Care,Life Sciences Tools,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+SWKS,Skyworks Solutions Inc.,US,Information Technology,Semiconductors,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+PODD,Insulet Corporation,US,Health Care,Health Care Equipment,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+TTD,The Trade Desk Inc.,US,Information Technology,Software,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+IT,Gartner Inc.,US,Information Technology,IT Services,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+AES,The AES Corporation,US,Utilities,Independent Power Producers,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+UHS,Universal Health Services Inc.,US,Health Care,Health Care Providers,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+DPZ,Domino's Pizza Inc.,US,Consumer Discretionary,Hotels Restaurants,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+FRT,Federal Realty Investment Trust,US,Real Estate,Retail REITs,10.0,USD_B,10.0,,NYSE,N,,,N,2026-05-26,SP500
+JKHY,Jack Henry & Associates Inc.,US,Financials,Financial Services,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+WYNN,Wynn Resorts Limited,US,Consumer Discretionary,Hotels Restaurants,10.0,USD_B,10.0,,NASDAQ,N,,,N,2026-05-26,SP500
+MGM,MGM Resorts International,US,Consumer Discretionary,Hotels Restaurants,9.0,USD_B,9.0,,NYSE,N,,,N,2026-05-26,SP500
+BAX,Baxter International Inc.,US,Health Care,Health Care Equipment,9.0,USD_B,9.0,,NYSE,N,,,Y,2026-05-26,SP500
+HSIC,Henry Schein Inc.,US,Health Care,Health Care Providers,8.0,USD_B,8.0,,NASDAQ,N,,,N,2026-05-26,SP500
+FDS,FactSet Research Systems Inc.,US,Financials,Capital Markets,8.0,USD_B,8.0,,NYSE,N,,,N,2026-05-26,SP500
+ARE,Alexandria Real Estate Equities Inc.,US,Real Estate,Office REITs,8.0,USD_B,8.0,,NYSE,N,,,N,2026-05-26,SP500
+TAP,Molson Coors Beverage Company,US,Consumer Staples,Beverages,8.0,USD_B,8.0,,NYSE,N,,,N,2026-05-26,SP500
+AOS,A. O. Smith Corporation,US,Industrials,Building Products,8.0,USD_B,8.0,,NYSE,N,,,N,2026-05-26,SP500
+BLDR,Builders FirstSource Inc.,US,Industrials,Building Products,8.0,USD_B,8.0,,NYSE,N,,,N,2026-05-26,SP500
+CRL,Charles River Laboratories International Inc.,US,Health Care,Life Sciences Tools,7.0,USD_B,7.0,,NYSE,N,,,N,2026-05-26,SP500
+NCLH,Norwegian Cruise Line Holdings Ltd.,US,Consumer Discretionary,Hotels Restaurants,7.0,USD_B,7.0,,NYSE,N,,,N,2026-05-26,SP500
+TECH,Bio-Techne Corporation,US,Health Care,Life Sciences Tools,7.0,USD_B,7.0,,NASDAQ,N,,,N,2026-05-26,SP500
+MOS,The Mosaic Company,US,Materials,Chemicals,7.0,USD_B,7.0,,NYSE,N,,,N,2026-05-26,SP500
+POOL,Pool Corporation,US,Consumer Discretionary,Distributors,7.0,USD_B,7.0,,NASDAQ,N,,,N,2026-05-26,SP500
+CAG,Conagra Brands Inc.,US,Consumer Staples,Food Products,7.0,USD_B,7.0,,NYSE,N,,,N,2026-05-26,SP500
+CPB,The Campbell's Company,US,Consumer Staples,Food Products,6.0,USD_B,6.0,,NYSE,N,,,N,2026-05-26,SP500
+EPAM,EPAM Systems Inc.,US,Information Technology,IT Services,5.0,USD_B,5.0,,NYSE,N,,,N,2026-05-26,SP500
+ASML,ASML Holding N.V.,US,Information Technology,Semiconductor Equipment,597.0,USD_B,597.0,,NASDAQ,Y,,BIG_TECH_AI_INFRA,N,2026-05-26,NDX_ADR
+ARM,Arm Holdings plc,US,Information Technology,Semiconductors,235.0,USD_B,235.0,,NASDAQ,Y,,BIG_TECH_AI_INFRA,N,2026-05-26,NDX_ADR
+PDD,PDD Holdings Inc.,US,Consumer Discretionary,Broadline Retail,141.0,USD_B,141.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+SHOP,Shopify Inc.,US,Information Technology,Software,123.0,USD_B,123.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+MELI,MercadoLibre Inc.,US,Consumer Discretionary,Broadline Retail,79.0,USD_B,79.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+MSTR,Strategy Inc,US,Information Technology,Software,62.0,USD_B,62.0,,NASDAQ,N,,,N,2026-05-26,NDX
+FER,Ferrovial N.V.,US,Industrials,Construction & Engineering,48.0,USD_B,48.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+CCEP,Coca-Cola Europacific Partners PLC,US,Consumer Staples,Beverages,40.0,USD_B,40.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+ALNY,Alnylam Pharmaceuticals Inc.,US,Health Care,Biotechnology,38.0,USD_B,38.0,,NASDAQ,N,,,N,2026-05-26,NDX
+TRI,Thomson Reuters Corporation,US,Industrials,Professional Services,35.0,USD_B,35.0,,NASDAQ,Y,,,N,2026-05-26,NDX_ADR
+INSM,Insmed Incorporated,US,Health Care,Biotechnology,25.0,USD_B,25.0,,NASDAQ,N,,,N,2026-05-26,NDX
+ZS,Zscaler Inc.,US,Information Technology,Software,24.0,USD_B,24.0,,NASDAQ,N,,,N,2026-05-26,NDX
+MRVL,Marvell Technology Inc.,US,Information Technology,Semiconductors,155.0,USD_B,155.0,,NASDAQ,N,,,N,2026-05-26,NDX
+TEAM,Atlassian Corporation,US,Information Technology,Software,20.0,USD_B,20.0,,NASDAQ,Y,,,N,2026-05-26,FORMER_NDX_2026_ADR
+TSM,Taiwan Semiconductor Manufacturing Company Limited,US,Information Technology,Semiconductors,1100.0,USD_B,1100.0,,NYSE,Y,,BIG_TECH_AI_INFRA,N,2026-05-26,ADR_50B+
+NVO,Novo Nordisk A/S,US,Health Care,Pharmaceuticals,180.0,USD_B,180.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+NVS,Novartis AG,US,Health Care,Pharmaceuticals,250.0,USD_B,250.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+AZN,AstraZeneca PLC,US,Health Care,Pharmaceuticals,230.0,USD_B,230.0,,NASDAQ,Y,,,N,2026-05-26,ADR_50B+
+SAP,SAP SE,US,Information Technology,Software,320.0,USD_B,320.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+BABA,Alibaba Group Holding Limited,US,Consumer Discretionary,Broadline Retail,280.0,USD_B,280.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+TM,Toyota Motor Corporation,US,Consumer Discretionary,Automobiles,250.0,USD_B,250.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+SHEL,Shell plc,US,Energy,Oil Gas & Consumable Fuels,230.0,USD_B,230.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+TTE,TotalEnergies SE,US,Energy,Oil Gas & Consumable Fuels,150.0,USD_B,150.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+HSBC,HSBC Holdings plc,US,Financials,Banks,180.0,USD_B,180.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+MUFG,Mitsubishi UFJ Financial Group Inc.,US,Financials,Banks,130.0,USD_B,130.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+BHP,BHP Group Limited,US,Materials,Metals & Mining,130.0,USD_B,130.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+RIO,Rio Tinto Group,US,Materials,Metals & Mining,105.0,USD_B,105.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+UL,Unilever PLC,US,Consumer Staples,Personal Care Products,140.0,USD_B,140.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+BTI,British American Tobacco p.l.c.,US,Consumer Staples,Tobacco,88.0,USD_B,88.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+BUD,Anheuser-Busch InBev SA/NV,US,Consumer Staples,Beverages,115.0,USD_B,115.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+DEO,Diageo plc,US,Consumer Staples,Beverages,75.0,USD_B,75.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+SONY,Sony Group Corporation,US,Consumer Discretionary,Household Durables,110.0,USD_B,110.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+HMC,Honda Motor Co. Ltd.,US,Consumer Discretionary,Automobiles,50.0,USD_B,50.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+BP,BP p.l.c.,US,Energy,Oil Gas & Consumable Fuels,90.0,USD_B,90.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+E,Eni S.p.A.,US,Energy,Oil Gas & Consumable Fuels,50.0,USD_B,50.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+RELX,RELX PLC,US,Industrials,Professional Services,90.0,USD_B,90.0,,NYSE,Y,,,N,2026-05-26,ADR_50B+
+ASR,Grupo Aeroportuario del Sureste,US,Industrials,Transportation Infrastructure,8.0,USD_B,8.0,,NYSE,Y,,,N,2026-05-26,ADR
+BSAC,Banco Santander-Chile,US,Financials,Banks,8.0,USD_B,8.0,,NYSE,Y,,,N,2026-05-26,ADR
+ABEV,Ambev S.A.,US,Consumer Staples,Beverages,35.0,USD_B,35.0,,NYSE,Y,,,N,2026-05-26,ADR
+VALE,Vale S.A.,US,Materials,Metals & Mining,50.0,USD_B,50.0,,NYSE,Y,,,N,2026-05-26,ADR
+ITUB,Itaú Unibanco Holding S.A.,US,Financials,Banks,70.0,USD_B,70.0,,NYSE,Y,,,N,2026-05-26,ADR
+BBD,Banco Bradesco S.A.,US,Financials,Banks,32.0,USD_B,32.0,,NYSE,Y,,,N,2026-05-26,ADR
+PBR,Petróleo Brasileiro S.A.,US,Energy,Oil Gas & Consumable Fuels,95.0,USD_B,95.0,,NYSE,Y,,,N,2026-05-26,ADR
+VEEV,Veeva Systems Inc.,US,Health Care,Health Care Technology,26.1,USD_B,26.1,,NYSE,N,,,N,2026-05-26,SP500_NEW_MAY2026; market_cap_stockanalysis_2026_05_26
+005930.KS,삼성전자,KR,Information Technology,Semiconductors,1748.0373,KRW_T,1248.6,1400,KOSPI,N,55,,N,2026-05-26,KOSPI_TOP_AI_INFRA; JUDAL_2026_05_26
+000660.KS,SK하이닉스,KR,Information Technology,Semiconductors,1462.4652,KRW_T,1044.6,1400,KOSPI,N,55,,N,2026-05-26,KOSPI_TOP_HBM; JUDAL_2026_05_26
+373220.KS,LG에너지솔루션,KR,Industrials,Electrical Equipment,93.483,KRW_T,66.8,1400,KOSPI,N,5,,N,2026-05-26,KOSPI_TOP_BATTERY; JUDAL_2026_05_26
+207940.KS,삼성바이오로직스,KR,Health Care,Biotechnology,65.9646,KRW_T,47.1,1400,KOSPI,N,12,,N,2026-05-26,KOSPI_TOP_CDMO; JUDAL_2026_05_26
+402340.KS,SK스퀘어,KR,Financials,Diversified Financial Services,155.8428,KRW_T,111.3,1400,KOSPI,N,40,Holding,N,2026-05-26,KOSPI_TOP_SK_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2; sk_square_financial_holding_classification_v0_2
+005935.KS,삼성전자우,KR,Information Technology,Semiconductors,150.2038,KRW_T,107.3,1400,KOSPI,N,55,,N,2026-05-26,KOSPI_TOP_PREFERRED; JUDAL_2026_05_26
+009150.KS,삼성전기,KR,Information Technology,Electronic Components,117.4184,KRW_T,83.9,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP_MLCC_APPLE; JUDAL_2026_05_26
+005380.KS,현대차,KR,Consumer Discretionary,Automobiles,141.0781,KRW_T,100.8,1400,KOSPI,N,33,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+000270.KS,기아,KR,Consumer Discretionary,Automobiles,65.1989,KRW_T,46.6,1400,KOSPI,N,38,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+068270.KS,셀트리온,KR,Health Care,Biotechnology,43.3138,KRW_T,30.9,1400,KOSPI,N,22,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+034020.KS,두산에너빌리티,KR,Industrials,Electrical Equipment,72.1271,KRW_T,51.5,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_TOP_NUCLEAR; JUDAL_2026_05_26
+329180.KS,HD현대중공업,KR,Industrials,Machinery,78.1961,KRW_T,55.9,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP_SHIPBUILDING; JUDAL_2026_05_26
+012450.KS,한화에어로스페이스,KR,Industrials,Aerospace & Defense,64.5058,KRW_T,46.1,1400,KOSPI,N,40,,N,2026-05-26,KOSPI_TOP_DEFENSE; JUDAL_2026_05_26
+042660.KS,한화오션,KR,Industrials,Machinery,41.2738,KRW_T,29.5,1400,KOSPI,N,35,,N,2026-05-26,KOSPI_TOP_SHIPBUILDING; JUDAL_2026_05_26
+028260.KS,삼성물산,KR,Industrials,Industrial Conglomerates,66.6508,KRW_T,47.6,1400,KOSPI,N,30,Conglomerate,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26; company_type_conglomerate_v0_2
+006400.KS,삼성SDI,KR,Industrials,Electrical Equipment,51.7359,KRW_T,37.0,1400,KOSPI,N,40,,N,2026-05-26,KOSPI_TOP_BATTERY; JUDAL_2026_05_26
+005490.KS,POSCO홀딩스,KR,Materials,Metals & Mining,35.0247,KRW_T,25.0,1400,KOSPI,N,40,,N,2026-05-26,KOSPI_TOP_ADR_AVAILABLE; JUDAL_2026_05_26
+035420.KS,NAVER,KR,Communication Services,Interactive Media,31.3747,KRW_T,22.4,1400,KOSPI,N,45,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+267260.KS,HD현대일렉트릭,KR,Industrials,Electrical Equipment,41.3821,KRW_T,29.6,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP_TRANSFORMER; JUDAL_2026_05_26
+105560.KS,KB금융,KR,Financials,Banks,58.6493,KRW_T,41.9,1400,KOSPI,N,75,Holding,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26; holding_classification_v0_2
+298040.KS,효성중공업,KR,Industrials,Electrical Equipment,35.7503,KRW_T,25.5,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_TOP_TRANSFORMER; JUDAL_2026_05_26
+010120.KS,LS ELECTRIC,KR,Industrials,Electrical Equipment,42.75,KRW_T,30.5,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_TOP_TRANSFORMER_AIINFRA; JUDAL_2026_05_26
+055550.KS,신한지주,KR,Financials,Banks,45.5668,KRW_T,32.5,1400,KOSPI,N,70,Holding,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26; holding_classification_v0_2
+034730.KS,SK,KR,Industrials,Industrial Conglomerates,47.5617,KRW_T,34.0,1400,KOSPI,N,25,Holding,N,2026-05-26,KOSPI_TOP_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2
+012330.KS,현대모비스,KR,Consumer Discretionary,Automobile Components,60.2464,KRW_T,43.0,1400,KOSPI,N,35,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+010130.KS,고려아연,KR,Materials,Metals & Mining,30.1405,KRW_T,21.5,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_TOP_ZINC; JUDAL_2026_05_26
+051910.KS,LG화학,KR,Materials,Chemicals,24.7779,KRW_T,17.7,1400,KOSPI,N,38,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+032830.KS,삼성생명,KR,Financials,Insurance,69.6,KRW_T,49.7,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+009540.KS,HD한국조선해양,KR,Industrials,Machinery,31.494,KRW_T,22.5,1400,KOSPI,N,32,Holding,N,2026-05-26,KOSPI_TOP_SHIPBUILDING; JUDAL_2026_05_26; holding_classification_v0_2
+000810.KS,삼성화재,KR,Financials,Insurance,25.9401,KRW_T,18.5,1400,KOSPI,N,55,,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26
+079550.KS,LIG넥스원,KR,Industrials,Aerospace & Defense,20.086,KRW_T,14.3,1400,KOSPI,N,20,,N,2026-05-26,KOSPI_TOP_DEFENSE; JUDAL_2026_05_26
+066570.KS,LG전자,KR,Consumer Discretionary,Household Durables,39.0108,KRW_T,27.9,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+011200.KS,HMM,KR,Industrials,Marine Transportation,19.0534,KRW_T,13.6,1400,KOSPI,N,5,,N,2026-05-26,KOSPI_TOP_SHIPPING; JUDAL_2026_05_26
+011070.KS,LG이노텍,KR,Information Technology,Electronic Components,25.2764,KRW_T,18.1,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP_APPLE_SUPPLIER; JUDAL_2026_05_26
+042700.KS,한미반도체,KR,Information Technology,Semiconductor Equipment,31.3577,KRW_T,22.4,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_TOP_HBM; JUDAL_2026_05_26
+272210.KS,한화시스템,KR,Industrials,Aerospace & Defense,21.7257,KRW_T,15.5,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_TOP_DEFENSE; JUDAL_2026_05_26
+033780.KS,KT&G,KR,Consumer Staples,Tobacco,18.9038,KRW_T,13.5,1400,KOSPI,N,45,,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26
+086790.KS,하나금융지주,KR,Financials,Banks,32.9241,KRW_T,23.5,1400,KOSPI,N,70,Holding,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26; holding_classification_v0_2
+000150.KS,두산,KR,Industrials,Industrial Conglomerates,28.8412,KRW_T,20.6,1400,KOSPI,N,18,Holding,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26; holding_classification_v0_2
+259960.KS,크래프톤,KR,Communication Services,Entertainment,12.0174,KRW_T,8.6,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP_GAME; JUDAL_2026_05_26
+064350.KS,현대로템,KR,Industrials,Machinery,23.3564,KRW_T,16.7,1400,KOSPI,N,22,,N,2026-05-26,KOSPI_TOP_DEFENSE_RAIL; JUDAL_2026_05_26
+267250.KS,HD현대,KR,Industrials,Industrial Conglomerates,22.8684,KRW_T,16.3,1400,KOSPI,N,18,Holding,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26; holding_classification_v0_2
+010140.KS,삼성중공업,KR,Industrials,Machinery,26.796,KRW_T,19.1,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP_SHIPBUILDING; JUDAL_2026_05_26
+352820.KS,하이브,KR,Communication Services,Entertainment,10.1721,KRW_T,7.3,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_TOP_KPOP; JUDAL_2026_05_26
+015760.KS,한국전력,KR,Utilities,Electric Utilities,25.9674,KRW_T,18.5,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_TOP_ADR_AVAILABLE; JUDAL_2026_05_26
+316140.KS,우리금융지주,KR,Financials,Banks,22.7196,KRW_T,16.2,1400,KOSPI,N,45,Holding,N,2026-05-26,KOSPI_TOP_ADR_AVAILABLE_FOREIGN_HIGH; JUDAL_2026_05_26; holding_classification_v0_2
+003670.KS,포스코퓨처엠,KR,Materials,Chemicals,21.3915,KRW_T,15.3,1400,KOSPI,N,12,,N,2026-05-26,KOSPI_TOP_BATTERY; JUDAL_2026_05_26
+096770.KS,SK이노베이션,KR,Energy,Oil Gas & Consumable Fuels,20.5737,KRW_T,14.7,1400,KOSPI,N,28,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+138040.KS,메리츠금융지주,KR,Financials,Insurance,17.8224,KRW_T,12.7,1400,KOSPI,N,15,Holding,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26; holding_classification_v0_2
+006260.KS,LS,KR,Industrials,Industrial Conglomerates,17.2536,KRW_T,12.3,1400,KOSPI,N,20,Holding,N,2026-05-26,KOSPI_TOP_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2
+086280.KS,현대글로비스,KR,Industrials,Air Freight & Logistics,17.7,KRW_T,12.6,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+307950.KS,현대오토에버,KR,Information Technology,Software,17.4965,KRW_T,12.5,1400,KOSPI,N,12,,N,2026-05-26,KOSPI_TOP_AUTO_IT; JUDAL_2026_05_26
+006800.KS,미래에셋증권,KR,Financials,Capital Markets,37.435,KRW_T,26.7,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+003550.KS,LG,KR,Industrials,Industrial Conglomerates,18.9229,KRW_T,13.5,1400,KOSPI,N,40,Holding,N,2026-05-26,KOSPI_TOP_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2
+003230.KS,삼양식품,KR,Consumer Staples,Food Products,9.7627,KRW_T,7.0,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_TOP_KFOOD; JUDAL_2026_05_26
+010950.KS,S-Oil,KR,Energy,Oil Gas & Consumable Fuels,12.3953,KRW_T,8.9,1400,KOSPI,N,63,,N,2026-05-26,KOSPI_TOP_FOREIGN_HIGH; JUDAL_2026_05_26
+090430.KS,아모레퍼시픽,KR,Consumer Staples,Personal Care Products,6.943,KRW_T,5.0,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP_KBEAUTY; JUDAL_2026_05_26
+097950.KS,CJ제일제당,KR,Consumer Staples,Food Products,3.1764,KRW_T,2.3,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+017670.KS,SK텔레콤,KR,Communication Services,Wireless Telecommunication,21.93,KRW_T,15.7,1400,KOSPI,N,45,,N,2026-05-26,KOSPI_TOP_ADR_AVAILABLE_FOREIGN_HIGH; JUDAL_2026_05_26
+030200.KS,KT,KR,Communication Services,Wireless Telecommunication,13.6595,KRW_T,9.8,1400,KOSPI,N,49,,N,2026-05-26,KOSPI_TOP_ADR_AVAILABLE_FOREIGN_HIGH; JUDAL_2026_05_26
+241560.KS,두산밥캣,KR,Industrials,Machinery,6.5182,KRW_T,4.7,1400,KOSPI,N,40,,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26
+000720.KS,현대건설,KR,Industrials,Construction & Engineering,16.926,KRW_T,12.1,1400,KOSPI,N,20,,N,2026-05-26,KOSPI_TOP_NUCLEAR; JUDAL_2026_05_26
+047810.KS,한국항공우주,KR,Industrials,Aerospace & Defense,16.561,KRW_T,11.8,1400,KOSPI,N,22,,N,2026-05-26,KOSPI_TOP_DEFENSE_KAI; JUDAL_2026_05_26
+018260.KS,삼성SDS,KR,Information Technology,IT Services,15.5916,KRW_T,11.1,1400,KOSPI,N,14,,N,2026-05-26,KOSPI_TOP_SAMSUNG_IT; JUDAL_2026_05_26
+009830.KS,한화솔루션,KR,Materials,Chemicals,7.6406,KRW_T,5.5,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP_SOLAR; JUDAL_2026_05_26
+336260.KS,두산퓨얼셀,KR,Industrials,Electrical Equipment,6.5362,KRW_T,4.7,1400,KOSPI,N,10,,N,2026-05-26,KOSPI_TOP_FUELCELL; JUDAL_2026_05_26
+180640.KS,한진칼,KR,Industrials,Passenger Airlines,7.7577,KRW_T,5.5,1400,KOSPI,N,18,Holding,N,2026-05-26,KOSPI_TOP; JUDAL_2026_05_26; holding_classification_v0_2
+024110.KS,기업은행,KR,Financials,Banks,16.6263,KRW_T,11.9,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TOP_BANK; JUDAL_2026_05_26
+035720.KS,카카오,KR,Communication Services,Interactive Media,18.308,KRW_T,13.1,1400,KOSPI,N,28,,N,2026-05-26,KOSPI_TOP_PLATFORM; JUDAL_2026_05_26
+088980.KS,맥쿼리인프라,KR,Utilities,Multi-Utilities,5.3064,KRW_T,3.8,1400,KOSPI,N,30,,N,2026-05-26,KOSPI_INFRA_REIT; JUDAL_2026_05_26
+000100.KS,유한양행,KR,Health Care,Pharmaceuticals,6.8337,KRW_T,4.9,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_PHARMA; JUDAL_2026_05_26
+004020.KS,현대제철,KR,Materials,Metals & Mining,5.618,KRW_T,4.0,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_STEEL; JUDAL_2026_05_26
+032640.KS,LG유플러스,KR,Communication Services,Wireless Telecommunication,6.6666,KRW_T,4.8,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_TELECOM; JUDAL_2026_05_26
+139480.KS,이마트,KR,Consumer Staples,Consumer Staples Distribution,2.5581,KRW_T,1.8,1400,KOSPI,N,12,,N,2026-05-26,KOSPI_RETAIL; JUDAL_2026_05_26
+251270.KS,넷마블,KR,Communication Services,Entertainment,3.4412,KRW_T,2.5,1400,KOSPI,N,18,,N,2026-05-26,KOSPI_GAME; JUDAL_2026_05_26
+004990.KS,롯데지주,KR,Consumer Discretionary,Multi-line Retail,2.6211,KRW_T,1.9,1400,KOSPI,N,10,Holding,N,2026-05-26,KOSPI_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2
+005830.KS,DB손해보험,KR,Financials,Insurance,9.7333,KRW_T,7.0,1400,KOSPI,N,35,,N,2026-05-26,KOSPI_INSURANCE; JUDAL_2026_05_26
+001440.KS,대한전선,KR,Industrials,Electrical Equipment,10.4464,KRW_T,7.5,1400,KOSPI,N,8,,N,2026-05-26,KOSPI_TRANSFORMER; JUDAL_2026_05_26
+009450.KS,경동나비엔,KR,Industrials,Building Products,1.0387,KRW_T,0.7,1400,KOSPI,N,,,N,2026-05-26,KOSPI_HVAC; JUDAL_2026_05_26; ticker_corrected_from_267290_to_009450_v0_2; USER_APPROVED_TICKER_CORRECTION_20260526
+018880.KS,한온시스템,KR,Consumer Discretionary,Automobile Components,5.3776,KRW_T,3.8,1400,KOSPI,N,25,,N,2026-05-26,KOSPI_AUTO_PARTS; JUDAL_2026_05_26
+078930.KS,GS,KR,Industrials,Industrial Conglomerates,7.1544,KRW_T,5.1,1400,KOSPI,N,20,Holding,N,2026-05-26,KOSPI_HOLDING; JUDAL_2026_05_26; holding_classification_v0_2
+128940.KS,한미약품,KR,Health Care,Pharmaceuticals,6.0083,KRW_T,4.3,1400,KOSPI,N,15,,N,2026-05-26,KOSPI_PHARMA; JUDAL_2026_05_26
+CPNG,Coupang Inc.,US,Consumer Discretionary,Broadline Retail,38,USD_B,38,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+PKX,POSCO Holdings Inc. ADR,US,Materials,Metals & Mining,23,USD_B,23,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+KB,KB Financial Group Inc. ADR,US,Financials,Banks,21,USD_B,21,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+LPL,LG Display Co. Ltd. ADR,US,Information Technology,Electronic Components,3,USD_B,3,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+SHG,Shinhan Financial Group Co. Ltd. ADR,US,Financials,Banks,18,USD_B,18,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+KEP,Korea Electric Power Corp. ADR,US,Utilities,Electric Utilities,7,USD_B,7,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+SKM,SK Telecom Co. Ltd. ADR,US,Communication Services,Wireless Telecommunication,7,USD_B,7,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+WF,Woori Financial Group Inc. ADR,US,Financials,Banks,6,USD_B,6,,NYSE,Y,,,N,2026-05-26,US_ADR_KR_COMPANY
+247540.KQ,에코프로비엠,KR,Materials,Chemicals,21.5226,KRW_T,15.4,1400,KOSDAQ,N,10,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+086520.KQ,에코프로,KR,Industrials,Industrial Conglomerates,19.959,KRW_T,14.3,1400,KOSDAQ,N,8,Holding,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15; holding_classification_v0_2
+196170.KQ,알테오젠,KR,Health Care,Biotechnology,19.5858,KRW_T,14.0,1400,KOSDAQ,N,12,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+277810.KQ,레인보우로보틱스,KR,Industrials,Machinery,14.9766,KRW_T,10.7,1400,KOSDAQ,N,5,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+036930.KQ,주성엔지니어링,KR,Information Technology,Semiconductor Equipment,10.8998,KRW_T,7.8,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+950160.KQ,코오롱티슈진,KR,Health Care,Biotechnology,9.2447,KRW_T,6.6,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+000250.KQ,삼천당제약,KR,Health Care,Pharmaceuticals,8.5033,KRW_T,6.1,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+058470.KQ,리노공업,KR,Information Technology,Semiconductor Equipment,8.4442,KRW_T,6.0,1400,KOSDAQ,N,30,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+028300.KQ,HLB,KR,Health Care,Biotechnology,6.9795,KRW_T,5.0,1400,KOSDAQ,N,5,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+039030.KQ,이오테크닉스,KR,Information Technology,Semiconductor Equipment,6.7387,KRW_T,4.8,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+298380.KQ,에이비엘바이오,KR,Health Care,Biotechnology,6.5785,KRW_T,4.7,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+087010.KQ,펩트론,KR,Health Care,Biotechnology,6.3073,KRW_T,4.5,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+240810.KQ,원익IPS,KR,Information Technology,Semiconductor Equipment,5.9882,KRW_T,4.3,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+440110.KQ,파두,KR,Information Technology,Semiconductors,5.8513,KRW_T,4.2,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+141080.KQ,리가켐바이오,KR,Health Care,Biotechnology,5.7787,KRW_T,4.1,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_TOP15
+222800.KQ,심텍,KR,Information Technology,Electronic Components,4.9752,KRW_T,3.6,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_THEME_AI_TOP
+108490.KQ,로보티즈,KR,Industrials,Machinery,4.5876,KRW_T,3.3,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_THEME_ROBOTICS_TOP
+310210.KQ,보로노이,KR,Health Care,Biotechnology,5.0237,KRW_T,3.6,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_THEME_BIO_TOP_EX_TOP15
+095340.KQ,ISC,KR,Information Technology,Semiconductor Equipment,5.0872,KRW_T,3.6,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_THEME_SEMICON_EQUIPMENT_TOP_EX_TOP15
+178320.KQ,서진시스템,KR,Industrials,Electrical Equipment,4.9972,KRW_T,3.6,1400,KOSDAQ,N,,,N,2026-05-26,JUDAL_2026_05_26; KOSDAQ_THEME_BATTERY_TOP_EX_TOP15
