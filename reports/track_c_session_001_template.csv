@@ -1,0 +1,11 @@
+ticker,name,market,exchange,sector,sub_industry,market_cap_usd_b,current_role,risk_level,risk_flags,foreign_ownership_pct,review_label,user_verdict,target_role,user_reason,confidence,event_risk_simple
+097950.KS,CJ제일제당,KR,KOSPI,Consumer Staples,Food Products,2.3,DISCOVERY_ONLY,HIGH,SMALL_CAP_RISK,15,TRACK_C_REVIEW,,,,,
+241560.KS,두산밥캣,KR,KOSPI,Industrials,Machinery,4.7,DISCOVERY_ONLY,HIGH,SMALL_CAP_RISK,40,TRACK_C_REVIEW,,,,,
+336260.KS,두산퓨얼셀,KR,KOSPI,Industrials,Electrical Equipment,4.7,DISCOVERY_ONLY,HIGH,SMALL_CAP_RISK,10,TRACK_C_REVIEW,,,,,
+004020.KS,현대제철,KR,KOSPI,Materials,Metals & Mining,4.0,DISCOVERY_ONLY,HIGH,SMALL_CAP_RISK,18,TRACK_C_REVIEW,,,,,
+000100.KS,유한양행,KR,KOSPI,Health Care,Pharmaceuticals,4.9,HIGH_RISK_REVIEW,HIGH,PHARMA_EVENT_RISK;SMALL_CAP_RISK;HEALTHCARE_EVENT_RISK,18,TRACK_C_REVIEW,,,,,
+141080.KQ,리가켐바이오,KR,KOSDAQ,Health Care,Biotechnology,4.1,HIGH_RISK_REVIEW,HIGH,BIOTECH_RISK;KOSDAQ_TOP15_RISK;SMALL_CAP_RISK;HEALTHCARE_EVENT_RISK,,TRACK_C_REVIEW,,,,,
+440110.KQ,파두,KR,KOSDAQ,Information Technology,Semiconductors,4.2,HIGH_RISK_REVIEW,HIGH,KOSDAQ_TOP15_RISK;SMALL_CAP_RISK;SECTOR_VOLATILITY,,TRACK_C_REVIEW,,,,,
+039030.KQ,이오테크닉스,KR,KOSDAQ,Information Technology,Semiconductor Equipment,4.8,HIGH_RISK_REVIEW,HIGH,KOSDAQ_TOP15_RISK;SMALL_CAP_RISK;SECTOR_VOLATILITY,,TRACK_C_REVIEW,,,,,
+090430.KS,아모레퍼시픽,KR,KOSPI,Consumer Staples,Personal Care Products,5.0,EXTENDED,MEDIUM,NONE,25,TRACK_C_REVIEW,,,,,
+352820.KS,하이브,KR,KOSPI,Communication Services,Entertainment,7.3,EXTENDED,MEDIUM,NONE,18,TRACK_C_REVIEW,,,,,
